@@ -139,13 +139,13 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 	Escribir "	                              `";
 	Escribir "   .:XHHHHk.              db.   .;;.     dH  MX  ";
 	Escribir "oMMMMMMMMMMM       ~MM  dMMP :MMMMMR   MMM  MR      ~MRMN";
-	Escribir "QMMMMMb   MMX       MMMMMMP  MX   M~   MMM MMM  .oo. XMMM   ´MMM";
+	Escribir "QMMMMMb   MMX       MMMMMMP  MX   M~   MMM MMM  .oo. XMMM   Â´MMM";
 	Escribir "  `MMMM.  )M> :X!Hk. MMMM   XMM.o   .  MMMMMMM X?XMMM MMM> !MMP";
-	Escribir "   ´MMMb.dM! XM M´?M MMMMMX.`MMMMMMMM~ MM M MM XM `  MX MMX XMM";
+	Escribir "   Â´MMMb.dM! XM MÂ´?M MMMMMX.`MMMMMMMM~ MM M MM XM `  MX MMX XMM";
 	Escribir "    ~MMMMM~ XMM. .XM XM` MMMb.~~MMMM~.MMX M  t MMbooMM XM MMMMP";
 	Escribir "     ?MMM>  YMMMMMM! MM   `?MMRb.    `       !L MMMMM XM  IMMM";
 	Escribir "      MMMX    MMMM   MM       ~%:            !Mh.  dMI     IMMP";
-	Escribir "      ´MMM.                                                IMX" ;
+	Escribir "      Â´MMM.                                                IMX" ;
 	Escribir "       ~M!M                                                 BMT";
 	Escribir "                      A M A R I L L O ";
 	Escribir "";
@@ -154,31 +154,31 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 	 
 	
 	Para i<-1 Hasta 2 Con Paso 1 Hacer		
-		Escribir "_¶___________¶¶¶";
-		Escribir "_¶¶__________¶__¶";
-		Escribir "¶__¶_________¶___¶";
-		Escribir "¶___¶________¶___¶";
-		Escribir "¶____¶_______¶____¶¶¶¶¶¶";
-		Escribir "¶_____¶______¶__________¶¶";
-		Escribir "¶______¶¶¶__¶_¶¶_________¶¶¶¶¶¶¶¶¶¶¶¶¶";
-		Escribir "¶_____¶___¶¶_¶¶¶¶________________¶¶¶¶";
-		Escribir "_¶___¶___¶¶___¶¶___________¶¶¶¶¶¶";
-		Escribir "__¶__¶__¶___¶_____¶___¶¶¶¶_¶";
-		Escribir "___¶_¶_¶______________¶¶¶¶_¶";
-		Escribir "¶¶¶__¶¶_________¶¶¶¶______¶";
-		Escribir "¶___¶__¶_________@¶____¶__¶";
-		Escribir "_¶___¶_¶_________________¶";
-		Escribir "__¶__¶_¶________________¶¶";
-		Escribir "___¶_¶¶___________________¶¶";
-		Escribir "____¶¶_________________¶¶___¶";
-		Escribir "____¶_________________¶__¶___¶";
-		Escribir "___¶_________________¶____¶¶¶¶";
-		Escribir "__¶___________________¶";
-		Escribir "__¶____________________¶";
-		Escribir "__¶_____¶¶¶¶¶¶¶¶_______¶";
-		Escribir "___¶__¶¶________¶¶____¶";
-		Escribir "___¶__¶___________¶____¶¶";
-		Escribir "__¶¶¶¶_____________¶¶¶¶¶¶¶¶";
+		Escribir "_Â¶___________Â¶Â¶Â¶";
+		Escribir "_Â¶Â¶__________Â¶__Â¶";
+		Escribir "Â¶__Â¶_________Â¶___Â¶";
+		Escribir "Â¶___Â¶________Â¶___Â¶";
+		Escribir "Â¶____Â¶_______Â¶____Â¶Â¶Â¶Â¶Â¶Â¶";
+		Escribir "Â¶_____Â¶______Â¶__________Â¶Â¶";
+		Escribir "Â¶______Â¶Â¶Â¶__Â¶_Â¶Â¶_________Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶";
+		Escribir "Â¶_____Â¶___Â¶Â¶_Â¶Â¶Â¶Â¶________________Â¶Â¶Â¶Â¶";
+		Escribir "_Â¶___Â¶___Â¶Â¶___Â¶Â¶___________Â¶Â¶Â¶Â¶Â¶Â¶";
+		Escribir "__Â¶__Â¶__Â¶___Â¶_____Â¶___Â¶Â¶Â¶Â¶_Â¶";
+		Escribir "___Â¶_Â¶_Â¶______________Â¶Â¶Â¶Â¶_Â¶";
+		Escribir "Â¶Â¶Â¶__Â¶Â¶_________Â¶Â¶Â¶Â¶______Â¶";
+		Escribir "Â¶___Â¶__Â¶_________@Â¶____Â¶__Â¶";
+		Escribir "_Â¶___Â¶_Â¶_________________Â¶";
+		Escribir "__Â¶__Â¶_Â¶________________Â¶Â¶";
+		Escribir "___Â¶_Â¶Â¶___________________Â¶Â¶";
+		Escribir "____Â¶Â¶_________________Â¶Â¶___Â¶";
+		Escribir "____Â¶_________________Â¶__Â¶___Â¶";
+		Escribir "___Â¶_________________Â¶____Â¶Â¶Â¶Â¶";
+		Escribir "__Â¶___________________Â¶";
+		Escribir "__Â¶____________________Â¶";
+		Escribir "__Â¶_____Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶_______Â¶";
+		Escribir "___Â¶__Â¶Â¶________Â¶Â¶____Â¶";
+		Escribir "___Â¶__Â¶___________Â¶____Â¶Â¶";
+		Escribir "__Â¶Â¶Â¶Â¶_____________Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶";
 		Escribir "Mantenga presionado cualquier boton hasta que carga completo";
 		Escribir "";
 		Escribir "                     CARGANDO ",cont,"%";
@@ -186,31 +186,31 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Esperar 1 Segundos;
 		Limpiar Pantalla;		
 		
-		Escribir "_¶___________¶¶¶";
-		Escribir "_¶¶__________¶__¶";
-		Escribir "¶__¶_________¶___¶";
-		Escribir "¶___¶________¶___¶";
-		Escribir "¶____¶_______¶____¶¶¶¶¶¶";
-		Escribir "¶_____¶______¶__________¶¶";
-		Escribir "¶______¶¶¶__¶_¶¶_________¶¶¶¶¶¶¶¶¶¶¶¶¶";
-		Escribir "¶_____¶___¶¶_@¶¶¶________________¶¶¶¶";
-		Escribir "_¶___¶___¶¶___¶¶___________¶¶¶¶¶¶";
-		Escribir "__¶__¶__¶___¶_____¶___¶¶@¶_¶";
-		Escribir "___¶_¶_¶______________¶@¶¶_¶";
-		Escribir "¶¶¶__¶¶_________¶¶¶¶______¶";
-		Escribir "¶___¶__¶_________¶¶____¶__¶___¶¶¶¶";
-		Escribir "_¶___¶_¶_________________¶__¶¶__¶";
-		Escribir "__¶__¶_¶________________¶¶¶¶__¶";
-		Escribir "___¶_¶¶_____________________¶¶ ";
-		Escribir "____¶¶_________________¶¶¶¶¶";
-		Escribir "____¶_________________¶";
-		Escribir "___¶_________________¶";
-		Escribir "__¶___________________¶";
-		Escribir "__¶____________________¶";
-		Escribir "__¶_____¶¶¶¶¶¶¶¶_______¶";
-		Escribir "___¶__¶¶________¶¶____¶";
-		Escribir "___¶__¶___________¶____¶¶";
-		Escribir "__¶¶¶¶_____________¶¶¶¶¶¶¶¶"; 
+		Escribir "_Â¶___________Â¶Â¶Â¶";
+		Escribir "_Â¶Â¶__________Â¶__Â¶";
+		Escribir "Â¶__Â¶_________Â¶___Â¶";
+		Escribir "Â¶___Â¶________Â¶___Â¶";
+		Escribir "Â¶____Â¶_______Â¶____Â¶Â¶Â¶Â¶Â¶Â¶";
+		Escribir "Â¶_____Â¶______Â¶__________Â¶Â¶";
+		Escribir "Â¶______Â¶Â¶Â¶__Â¶_Â¶Â¶_________Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶";
+		Escribir "Â¶_____Â¶___Â¶Â¶_@Â¶Â¶Â¶________________Â¶Â¶Â¶Â¶";
+		Escribir "_Â¶___Â¶___Â¶Â¶___Â¶Â¶___________Â¶Â¶Â¶Â¶Â¶Â¶";
+		Escribir "__Â¶__Â¶__Â¶___Â¶_____Â¶___Â¶Â¶@Â¶_Â¶";
+		Escribir "___Â¶_Â¶_Â¶______________Â¶@Â¶Â¶_Â¶";
+		Escribir "Â¶Â¶Â¶__Â¶Â¶_________Â¶Â¶Â¶Â¶______Â¶";
+		Escribir "Â¶___Â¶__Â¶_________Â¶Â¶____Â¶__Â¶___Â¶Â¶Â¶Â¶";
+		Escribir "_Â¶___Â¶_Â¶_________________Â¶__Â¶Â¶__Â¶";
+		Escribir "__Â¶__Â¶_Â¶________________Â¶Â¶Â¶Â¶__Â¶";
+		Escribir "___Â¶_Â¶Â¶_____________________Â¶Â¶ ";
+		Escribir "____Â¶Â¶_________________Â¶Â¶Â¶Â¶Â¶";
+		Escribir "____Â¶_________________Â¶";
+		Escribir "___Â¶_________________Â¶";
+		Escribir "__Â¶___________________Â¶";
+		Escribir "__Â¶____________________Â¶";
+		Escribir "__Â¶_____Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶_______Â¶";
+		Escribir "___Â¶__Â¶Â¶________Â¶Â¶____Â¶";
+		Escribir "___Â¶__Â¶___________Â¶____Â¶Â¶";
+		Escribir "__Â¶Â¶Â¶Â¶_____________Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶"; 
 		Escribir "Mantenga presionado cualquier boton hasta que carga completo";
 		Escribir "";
 		Escribir "                     CARGANDO ",cont,"%";
@@ -230,7 +230,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir " |  2.-  S A L I R                              |";
 		Escribir " |                                              |";
 		Escribir " @----------------------------------------------@";
-		Escribir sin Saltar "Eliga una opción : ";
+		Escribir sin Saltar "Eliga una opciÃ³n : ";
 		Leer opc;
 	Hasta Que opc==1 o opc==2 o opc==4 o opc==5	o opc==6
 	si opc==1 o opc==4 o opc==5 o opc==6 Entonces
@@ -247,7 +247,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		FinSi		
 		
 		SI opc==6 Entonces
-			jugador1="Ñe";
+			jugador1="Ã‘e";
 			enemigo1="Chanchiwagui";
 			opc=4;
 			win=0;
@@ -267,8 +267,8 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Limpiar Pantalla;
 		Escribir "                           ";
 		Escribir "                    >MVM";
-		Escribir "                    M¬ ¬M ";
-		Escribir "                   °| _ |";
+		Escribir "                    MÂ¬ Â¬M ";
+		Escribir "                   Â°| _ |";
 		Escribir "                 __- \_/-__";
 		Escribir "                |   ____   \ ";
 		Escribir "                | |_|>  |  | |";
@@ -279,17 +279,17 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  ¡H o l a    a    t o d o s!                 |";
+		Escribir " |  Â¡H o l a    a    t o d o s!                 |";
 		Escribir " |                                              |";
-		Escribir " |  ¡Bienvenidos al  mundo de POKéMON!          |";
+		Escribir " |  Â¡Bienvenidos al  mundo de POKÃ©MON!          |";
 		Escribir " |                                         \/   |";
 		Escribir " @----------------------------------------------@";
 		Esperar Tecla;
 		Limpiar Pantalla;
 		Escribir "                           ";
 		Escribir "                    >MVM";
-		Escribir "                    M¬ ¬M ";
-		Escribir "                   °| o |";
+		Escribir "                    MÂ¬ Â¬M ";
+		Escribir "                   Â°| o |";
 		Escribir "                 __- \_/-__";
 		Escribir "                |    ____   \ ";
 		Escribir "                | |_|>  |  | |";
@@ -300,9 +300,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  ¡Me llamo AOK!                              |";
+		Escribir " |  Â¡Me llamo AOK!                              |";
 		Escribir " |                                              |";
-		Escribir " |  ¡Pero la gente me llama el PROFESOR POKéMon!|";
+		Escribir " |  Â¡Pero la gente me llama el PROFESOR POKÃ©Mon!|";
 		Escribir " |                                         \/   |";
 		Escribir " @----------------------------------------------@";
 		Esperar Tecla;
@@ -321,9 +321,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  ¡Este mundo está habitado por unas          |";
+		Escribir " |  Â¡Este mundo estÃ¡ habitado por unas          |";
 		Escribir " |                                              |";
-		Escribir " |  criaturas llamadas POKéMon!                 |";
+		Escribir " |  criaturas llamadas POKÃ©Mon!                 |";
 		Escribir " |                                         \/   |";
 		Escribir " @----------------------------------------------@";
 		Esperar Tecla;
@@ -342,7 +342,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  Para algunos, los POKéMON son mascotas.     |";
+		Escribir " |  Para algunos, los POKÃ©MON son mascotas.     |";
 		Escribir " |                                              |";
 		Escribir " |  Pero otros los usan para pelear.            |";
 		Escribir " |                                         \/   |";
@@ -363,7 +363,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  En cuanto a mí...                           |";
+		Escribir " |  En cuanto a mÃ­...                           |";
 		Escribir " |                                              |";
 		Escribir " |                                              |";
 		Escribir " |                                         \/   |";
@@ -384,7 +384,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  Estudio a los POKéMON como profesión.       |";
+		Escribir " |  Estudio a los POKÃ©MON como profesiÃ³n.       |";
 		Escribir " |                                              |";
 		Escribir " |                                              |";
 		Escribir " |                                         \/   |";
@@ -398,12 +398,12 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "   /___\_\            ";
 		Escribir "   l___l__l          ";
 		Escribir "  /___/  \            ";
-		Escribir "   l + ¬/_/           ";
+		Escribir "   l + Â¬/_/           ";
 		Escribir "   \___/_/\           ";
 		Escribir "   /l l l l\          ";
 		Escribir "  / l l l l\/\        ";
 		Escribir " / +l l l l \ \       ";
-		Escribir " \/\l¬__l l / /       ";
+		Escribir " \/\lÂ¬__l l / /       ";
 		Escribir "  \/l l l l l_l       ";
 		Escribir "    l_l l_l           ";
 		Escribir "    /_/ \_\           ";
@@ -411,7 +411,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  Pero primero dime cómo te llamas.           |";
+		Escribir " |  Pero primero dime cÃ³mo te llamas.           |";
 		Escribir " |                                              |";
 		Escribir " |                                              |";
 		Escribir " |                                         \/   |";
@@ -433,12 +433,12 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir " @-----------------@";
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
-			Escribir " |  Estudio a los POKéMON como profesión.       |";
+			Escribir " |  Estudio a los POKÃ©MON como profesiÃ³n.       |";
 			Escribir " |                                              |";
 			Escribir " |                                              |";
 			Escribir " |                                         \/   |";
 			Escribir " @----------------------------------------------@";
-			Escribir Sin Saltar "Elegir la opción";
+			Escribir Sin Saltar "Elegir la opciÃ³n";
 			leer opc1;
 		Hasta Que opc1==1 o opc1==2 o opc1==3 o opc1==4
 		
@@ -447,7 +447,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		si opc1==1 entonces
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
-			Escribir " |  ¿ TU NOMBRE                                 |";
+			Escribir " |  Â¿ TU NOMBRE                                 |";
 			Escribir " |                _____________________         |";
 			Escribir " |                                              |";
 			Escribir " |                                         \/   |";
@@ -473,12 +473,12 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "   /___\_\            ";
 		Escribir "   l___l__l          ";
 		Escribir "  /___/  \            ";
-		Escribir "   l + ¬/_/           ";
+		Escribir "   l + Â¬/_/           ";
 		Escribir "   \___/_/\           ";
 		Escribir "   /l l l l\          ";
 		Escribir "  / l l l l\/\        ";
 		Escribir " / +l l l l \ \       ";
-		Escribir " \/\l¬__l l / /       ";
+		Escribir " \/\lÂ¬__l l / /       ";
 		Escribir "  \/l l l l l_l       ";
 		Escribir "    l_l l_l           ";
 		Escribir "    /_/ \_\           ";
@@ -486,7 +486,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  ¡Bien!  ¡Tu nombre es ", jugador1, "!        |";
+		Escribir " |  Â¡Bien!  Â¡Tu nombre es ", jugador1, "!        |";
 		Escribir " |                                              |";
 		Escribir " |                                              |";
 		Escribir " |                                         \/   |";
@@ -496,22 +496,22 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "                  __\__        ";
 		Escribir "                 /     \/\_ _  ";
 		Escribir "                / __/\/\l /_/";
-		Escribir "                \/l¬ ¬l/  l_l ";
+		Escribir "                \/lÂ¬ Â¬l/  l_l ";
 		Escribir "                  \_u_/\__\ \ ";
 		Escribir "                 /l   Q ___\_\ ";
 		Escribir "                 ll    l      ";
 		Escribir "                /_l  __l      ";
 		Escribir "                l_l__l__l     ";
-		Escribir "                  l l ¬ l     ";
+		Escribir "                  l l Â¬ l     ";
 		Escribir "                  l l l l     ";
 		Escribir "                  l l l l     ";
 		Escribir "                  /_/ \_\     ";
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  Este es mi nieto. él ha sido tu rival desde |";
+		Escribir " |  Este es mi nieto. Ã©l ha sido tu rival desde |";
 		Escribir " |                                              |";
-		Escribir " |  que eras un niño.                           |";
+		Escribir " |  que eras un niÃ±o.                           |";
 		Escribir " |                                         \/   |";
 		Escribir " @----------------------------------------------@";
 		Repetir
@@ -531,19 +531,19 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir " @-----------------@";
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
-			Escribir " |  ...Mmm, ¿podrías decirme cómo se llama?     |";
+			Escribir " |  ...Mmm, Â¿podrÃ­as decirme cÃ³mo se llama?     |";
 			Escribir " |                                              |";
 			Escribir " |                                              |";
 			Escribir " |                                         \/   |";
 			Escribir " @----------------------------------------------@";
-			Escribir Sin Saltar "Elegir la opción";
+			Escribir Sin Saltar "Elegir la opciÃ³n";
 			leer opc2;
 		Hasta Que opc2==1 o opc2==2 o opc2==3 o opc2==4
 		Limpiar Pantalla;
 		si opc2==1 entonces
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
-			Escribir " |  ¿NOMBRE RIVAL?                                |";
+			Escribir " |  Â¿NOMBRE RIVAL?                                |";
 			Escribir " |                _____________________         |";
 			Escribir " |                                              |";
 			Escribir " |                                         \/   |";
@@ -567,22 +567,22 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "                  __\__        ";
 		Escribir "                 /     \/\_ _  ";
 		Escribir "                / __/\/\l /_/";
-		Escribir "                \/l¬ ¬l/  l_l ";
+		Escribir "                \/lÂ¬ Â¬l/  l_l ";
 		Escribir "                  \_u_/\__\ \ ";
 		Escribir "                 /l   Q ___\_\ ";
 		Escribir "                 ll    l      ";
 		Escribir "                /_l  __l      ";
 		Escribir "                l_l__l__l     ";
-		Escribir "                  l l ¬ l     ";
+		Escribir "                  l l Â¬ l     ";
 		Escribir "                  l l l l     ";
 		Escribir "                  l l l l     ";
 		Escribir "                  /_/ \_\     ";
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  ¡Ah, sí!  !Ahora lo recuerdo!               |";
+		Escribir " |  Â¡Ah, sÃ­!  !Ahora lo recuerdo!               |";
 		Escribir " |                                              |";
-		Escribir " |         ¡Se llama ", enemigo1, "!      |";
+		Escribir " |         Â¡Se llama ", enemigo1, "!      |";
 		Escribir " |                                         \/   |";
 		Escribir " @----------------------------------------------@";
 		
@@ -605,9 +605,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  ¡",jugador1,"!   ¡Tu propia leyenda POKéMON |";
+		Escribir " |  Â¡",jugador1,"!   Â¡Tu propia leyenda POKÃ©MON |";
 		Escribir " |                                              |";
-		Escribir " |  está a punto de comenzar!                   |";
+		Escribir " |  estÃ¡ a punto de comenzar!                   |";
 		Escribir " |                                         \/   |";
 		Escribir " @----------------------------------------------@";
 		Esperar Tecla;
@@ -626,9 +626,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "";
 		Escribir " @----------------------------------------------@";
 		Escribir " |                                              |";
-		Escribir " |  ¡Te espera un mundo de sueños y aventuras   |";
+		Escribir " |  Â¡Te espera un mundo de sueÃ±os y aventuras   |";
 		Escribir " |                                              |";
-		Escribir " |  con los POKéMON!                            |";
+		Escribir " |  con los POKÃ©MON!                            |";
 		Escribir " |                                         \/   |";
 		Escribir " @----------------------------------------------@";
 		Esperar Tecla;
@@ -639,24 +639,24 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir "                     |  v  |                    ";
 			Escribir "                     |   v |                    ";
 			Escribir "                     |     |                    ";
-			Escribir "°°°°°°°°°°°°°°°°°°°°°° [4] °°°°°°°°°°°°°°°°°°°°°";
-			Escribir "°         ______             _________         °";
-			Escribir "°        /------\           /---------\        °";
-			Escribir "°       | [_][_] |         | [__] _[_] |       °";
-			Escribir "°   [1] |_||_____|     [2] !_____| |___!       °";
-			Escribir "°                                              °";
-			Escribir "°                                              °";
-			Escribir "°    °°°°°°°[0]          _____________         °";
-			Escribir "°    ¬v¬v¬v¬    O       /             \        °";
-			Escribir "°    v!v!v!v   -|-     /|_ _ _ _ _ _ _|\       °";
-			Escribir "°              /l      \/[][][] [][][]\/       °";
-			Escribir "°                       | - - - - - - |        °";	
-			Escribir "°     _______           |_RRRR_| |_RRR|        °";
-			Escribir "°°°°°°///////°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°";
+			Escribir "Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â° [4] Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°";
+			Escribir "Â°         ______             _________         Â°";
+			Escribir "Â°        /------\           /---------\        Â°";
+			Escribir "Â°       | [_][_] |         | [__] _[_] |       Â°";
+			Escribir "Â°   [1] |_||_____|     [2] !_____| |___!       Â°";
+			Escribir "Â°                                              Â°";
+			Escribir "Â°                                              Â°";
+			Escribir "Â°    Â°Â°Â°Â°Â°Â°Â°[0]          _____________         Â°";
+			Escribir "Â°    Â¬vÂ¬vÂ¬vÂ¬    O       /             \        Â°";
+			Escribir "Â°    v!v!v!v   -|-     /|_ _ _ _ _ _ _|\       Â°";
+			Escribir "Â°              /l      \/[][][] [][][]\/       Â°";
+			Escribir "Â°                       | - - - - - - |        Â°";	
+			Escribir "Â°     _______           |_RRRR_| |_RRR|        Â°";
+			Escribir "Â°Â°Â°Â°Â°Â°///////Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°";
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
 			Escribir " |  !VE RAPIDO A UNA PELEA!                     |";
-			Escribir " |                        (OPCIÓN 4)            |";
+			Escribir " |                        (OPCIÃ“N 4)            |";
 			Escribir " |                                              |";
 			Escribir " |                                              |";
 			Escribir " @----------------------------------------------@";
@@ -676,26 +676,26 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir "                     |  v  |                    ";
 			Escribir "                     |  v  |                    ";
 			Escribir "                     |     |                    ";
-			Escribir "°°°°°°°°°°°°°°°°°°°°°°     °°°°°°°°°°°°°°°°°°°°°";
-			Escribir "°         ______             _________         °";
-			Escribir "°        /------\           /---------\        °";
-			Escribir "°       | [_][_] |         | [__] _[_] |       °";
-			Escribir "°       |_||_____|         !_____| |___!       °";
-			Escribir "°                                              °";
-			Escribir "°                                              °";
-			Escribir "°    °°°°°°°             _____________         °";
-			Escribir "°    ¬v¬v¬v¬            /             \        °";
-			Escribir "°    v!v!v!v           /|_ _ _ _ _ _ _|\       °";
-			Escribir "°                      \/[][][] [][][]\/       °";
-			Escribir "°                       | - - - - - - |        °";	
-			Escribir "°     _______           |_RRRR_| |_RRR|        °";
-			Escribir "°°°°°°///////°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°";
+			Escribir "Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°     Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°";
+			Escribir "Â°         ______             _________         Â°";
+			Escribir "Â°        /------\           /---------\        Â°";
+			Escribir "Â°       | [_][_] |         | [__] _[_] |       Â°";
+			Escribir "Â°       |_||_____|         !_____| |___!       Â°";
+			Escribir "Â°                                              Â°";
+			Escribir "Â°                                              Â°";
+			Escribir "Â°    Â°Â°Â°Â°Â°Â°Â°             _____________         Â°";
+			Escribir "Â°    Â¬vÂ¬vÂ¬vÂ¬            /             \        Â°";
+			Escribir "Â°    v!v!v!v           /|_ _ _ _ _ _ _|\       Â°";
+			Escribir "Â°                      \/[][][] [][][]\/       Â°";
+			Escribir "Â°                       | - - - - - - |        Â°";	
+			Escribir "Â°     _______           |_RRRR_| |_RRR|        Â°";
+			Escribir "Â°Â°Â°Â°Â°Â°///////Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°";
 			Escribir " @----------------------------------------------@";
-			Escribir " |  OAK: ¡HEY ALTO NO VAYAS!                    |";
+			Escribir " |  OAK: Â¡HEY ALTO NO VAYAS!                    |";
 			Esperar 1 Segundos;
-			Escribir " |           ¡Ufff! ¡Estuvo cerca!              |";
+			Escribir " |           Â¡Ufff! Â¡Estuvo cerca!              |";
 			Esperar 1 Segundos;
-			Escribir " |    ¡En la hierba viven POKéMON salvajes!     |";
+			Escribir " |    Â¡En la hierba viven POKÃ©MON salvajes!     |";
 			Escribir " |                                              |";
 			Escribir " |                                              |";
 			Escribir " @----------------------------------------------@";
@@ -717,7 +717,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
 			Esperar 2 Segundos;
-			Escribir " |  ¡Un PIKACHU salvaje aparecio!               |";	
+			Escribir " |  Â¡Un PIKACHU salvaje aparecio!               |";	
 			Escribir " |                                              |";
 			Escribir " |                                              |";
 			Escribir " |                                         \/   |";
@@ -740,7 +740,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
 			Esperar 2 Segundos;
-			Escribir " |  ¡El profesor ocupo pokeball!                |";	
+			Escribir " |  Â¡El profesor ocupo pokeball!                |";	
 			Escribir " |                                              |";
 			Escribir " |                                              |";
 			Escribir " |                                         \/   |";
@@ -750,11 +750,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			//PONER A PIkACHU CON ASH DE ESPALDA
 			Escribir "                           ";
 			Escribir "  PIKACHU                                ";
-			Escribir "      :N5                     ° °      ";
-			Escribir " | Ps:----------            °     °     ";
-			Escribir " |______________\          °-------° ";
-			Escribir "                            °     °  ";
-			Escribir "                              ° ° ";
+			Escribir "      :N5                     Â° Â°      ";
+			Escribir " | Ps:----------            Â°     Â°     ";
+			Escribir " |______________\          Â°-------Â° ";
+			Escribir "                            Â°     Â°  ";
+			Escribir "                              Â° Â° ";
 			Escribir "             ";
 			Escribir "                 ";
 			Escribir "                   ";
@@ -763,7 +763,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
 			Esperar 2 Segundos;
-			Escribir " | ¡Muy bien! ¡PIKACHU fue atrapado!            |";	
+			Escribir " | Â¡Muy bien! Â¡PIKACHU fue atrapado!            |";	
 			Escribir " |                                              |";
 			Escribir " |                                              |";
 			Escribir " |                                         \/   |";
@@ -775,8 +775,8 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Esperar 2 Segundos;
 			Escribir " | OAK: Vaya...                                 |";
 			Esperar 1 Segundos;
-			Escribir " |  ¡Necesitas a tu propio POKéMON como         |";
-			Escribir " |                         protección           |";
+			Escribir " |  Â¡Necesitas a tu propio POKÃ©MON como         |";
+			Escribir " |                         protecciÃ³n           |";
 			Escribir " |                                         \/   |";
 			Escribir " @----------------------------------------------@";
 			Esperar Tecla;
@@ -784,9 +784,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
 			Esperar 2 Segundos;
-			Escribir " | ¿Yo lo sé!                                   |";
+			Escribir " | Â¿Yo lo sÃ©!                                   |";
 			Esperar 1 Segundos;
-			Escribir " |  ¡Ven conmigo!                               |";
+			Escribir " |  Â¡Ven conmigo!                               |";
 			Escribir " |                                              |";
 			Escribir " |                                         \/   |";
 			Escribir " @----------------------------------------------@";
@@ -805,10 +805,10 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
 			Esperar 2 Segundos;
-			Escribir " | ",enemigo1,": ¡Abuelo! ¡Estoy harto de   |";
+			Escribir " | ",enemigo1,": Â¡Abuelo! Â¡Estoy harto de   |";
 			Esperar 1 Segundos;
 			Escribir " |  esperar!                                    |";
-			Escribir " |  OAK: ¿",enemigo1,"?                      |";
+			Escribir " |  OAK: Â¿",enemigo1,"?                      |";
 			Escribir " |                                         \/   |";
 			Escribir " @----------------------------------------------@";
 			Esperar Tecla;
@@ -826,11 +826,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
 			Esperar 2 Segundos;
-			Escribir " | OAK: ¿Hum? ¿Qué haces aquí ya?               |";
+			Escribir " | OAK: Â¿Hum? Â¿QuÃ© haces aquÃ­ ya?               |";
 			Esperar 1 Segundos;
-			Escribir " |  Te dije que vinieras más  tarde...          |";
+			Escribir " |  Te dije que vinieras mÃ¡s  tarde...          |";
 			Esperar 1 Segundos;
-			Escribir " |  ¡No importa!    Espera ahí.                 |";
+			Escribir " |  Â¡No importa!    Espera ahÃ­.                 |";
 			Escribir " |                                         \/   |";
 			Escribir " @----------------------------------------------@";
 			Esperar Tecla;
@@ -848,11 +848,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
 			Esperar 2 Segundos;
-			Escribir " | OAK: ¡Mira, ",jugador1,"! ¿Ves la bola que    |";
+			Escribir " | OAK: Â¡Mira, ",jugador1,"! Â¿Ves la bola que    |";
 			Esperar 1 Segundos;
-			Escribir " |  está en la mesa? Se llama POKéBALL.                           |";
+			Escribir " |  estÃ¡ en la mesa? Se llama POKÃ©BALL.                           |";
 			Esperar 1 Segundos;
-			Escribir " |  Contiene un POKéMON en su interior.         |";
+			Escribir " |  Contiene un POKÃ©MON en su interior.         |";
 			Escribir " |                                         \/   |";
 			Escribir " @----------------------------------------------@";
 			Esperar Tecla;
@@ -870,11 +870,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
 			Esperar 2 Segundos;
-			Escribir " | OAK: ¡Puedes cogerla!                        |";
+			Escribir " | OAK: Â¡Puedes cogerla!                        |";
 			Esperar 1 Segundos;
-			Escribir " |  ¡Es para ti!                                |";
+			Escribir " |  Â¡Es para ti!                                |";
 			Esperar 1 Segundos;
-			Escribir " |  ",enemigo1,": ¡Oye abuelo!                  |";
+			Escribir " |  ",enemigo1,": Â¡Oye abuelo!                  |";
 			Escribir " |                                         \/   |";
 			Escribir " @----------------------------------------------@";
 			Esperar Tecla;
@@ -892,9 +892,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Escribir " @----------------------------------------------@";
 			Escribir " |                                              |";
 			Esperar 2 Segundos;
-			Escribir " | ",enemigo1,": ¡Y yo! ¿qué?                  |";
+			Escribir " | ",enemigo1,": Â¡Y yo! Â¿quÃ©?                  |";
 			Esperar 1 Segundos;
-			Escribir " |  OAK: ¡Tranquilo ",enemigo1,"! Te dare otro |                       |";
+			Escribir " |  OAK: Â¡Tranquilo ",enemigo1,"! Te dare otro |                       |";
 			Esperar 1 Segundos;
 			Escribir " |  a ti mas tarde!                             |";
 			Escribir " |                                         \/   |";
@@ -915,7 +915,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 				Escribir " @----------------------------------------------@";
 				Escribir " |                                              |";
 				Esperar 2 Segundos;
-				Escribir " | OAK: ¡Adelante! ¡Es tuyo!                  |";
+				Escribir " | OAK: Â¡Adelante! Â¡Es tuyo!                  |";
 				Escribir " |                                              |";
 				Escribir " |  (presiona 0 para obtener tu pokemon)        |";
 				Escribir " |                                         \/   |";
@@ -954,10 +954,10 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 				Escribir " @----------------------------------------------@";
 				Escribir " |                                              |";
 				Esperar 2 Segundos;
-				Escribir " | ",jugador1," ¡NO! ¡",enemigo1,", quiero a ese|";
+				Escribir " | ",jugador1," Â¡NO! Â¡",enemigo1,", quiero a ese|";
 				Escribir " |                                              |";
-				Escribir " |  POKéMON!                                    |";
-				Escribir " |           ",enemigo1," !Ha cogido el POKéMON!|";
+				Escribir " |  POKÃ©MON!                                    |";
+				Escribir " |           ",enemigo1," !Ha cogido el POKÃ©MON!|";
 				Escribir " @----------------------------------------------@";
 				Esperar Tecla;
 				Limpiar Pantalla;
@@ -975,11 +975,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 				Escribir "XXXXX|                  (",enemigo1,")    |XXXXXXXX";
 				Escribir " @----------------------------------------------@";
 				Escribir " |                                              |";
-				Escribir " | OAK: ¡",enemigo1,"! ¿Que haces?       |";
-				Escribir " | ",enemigo1," ¡Abuelo, yo quiero éste!        |";
+				Escribir " | OAK: Â¡",enemigo1,"! Â¿Que haces?       |";
+				Escribir " | ",enemigo1," Â¡Abuelo, yo quiero Ã©ste!        |";
 				Esperar 1 Segundos;
 				Escribir " | OAK: Pero... Bueno. Vale.                    |";
-				Escribir " |           Ese POKéMON es tuyo.               |";
+				Escribir " |           Ese POKÃ©MON es tuyo.               |";
 				Escribir " @----------------------------------------------@";
 				Esperar Tecla;
 				Limpiar Pantalla;
@@ -999,7 +999,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 				Escribir " |                                              |";
 				Escribir " | OAK: Te iba a dar uno de todos modos...      |";
 				Esperar 1 Segundos;
-				Escribir " |  ",jugador1,", ven aquí.                   |";
+				Escribir " |  ",jugador1,", ven aquÃ­.                   |";
 				Escribir " |                                              |";
 				Escribir " |                                              |";
 				Escribir " @----------------------------------------------@";
@@ -1019,10 +1019,10 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 				Escribir "XXXXX|                  (",enemigo1,")    |XXXXXXXX";
 				Escribir " @----------------------------------------------@";
 				Escribir " |                                              |";
-				Escribir " | OAK: ",jugador1,", éste es el POKéMON que  |";
-				Escribir " |  atrapé antes. Puedes tenerlo.               |";
-				Escribir " |  Lo cogí en estado salvaje, asi que no es    |";
-				Escribir " |  manso todavía.                              |";
+				Escribir " | OAK: ",jugador1,", Ã©ste es el POKÃ©MON que  |";
+				Escribir " |  atrapÃ© antes. Puedes tenerlo.               |";
+				Escribir " |  Lo cogÃ­ en estado salvaje, asi que no es    |";
+				Escribir " |  manso todavÃ­a.                              |";
 				Escribir " @----------------------------------------------@";
 				Esperar Tecla;
 				
@@ -1079,7 +1079,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		
 		miSalud[0]=miPokeH1[0];
 		
-		NombreAtaque[0]="Puño Trueno";   TipoAtaque[0]=miPokeT1[0];  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
+		NombreAtaque[0]="PuÃ±o Trueno";   TipoAtaque[0]=miPokeT1[0];  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
 		NombreAtaque[1]="Trueno";   TipoAtaque[1]=miPokeT1[0];  pp[1]="15"; efectivo[1]="70"; Dano[1]="120";
 		NombreAtaque[2]="Impactrueno";   TipoAtaque[2]=miPokeT1[0];  pp[2]="30"; efectivo[2]="100"; Dano[2]="40";
 		NombreAtaque[3]="Rayo";   TipoAtaque[3]=miPokeT1[0];  pp[3]="15"; efectivo[3]="100"; Dano[3]="95";
@@ -1154,36 +1154,36 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			Repetir
 				Limpiar Pantalla;
 				Escribir "                       Exit                     ";
-				Escribir "°°°°°°°°°°°°°°°°°°°°°° [4] °°°°°°°°°°°°°°°°°°°°°";
-				Escribir "°         ______             _________         °";
-				Escribir "°        /------\           /---------\        °";
-				Escribir "°       | [_][_] |         | [__] _[_] |       °";
-				Escribir "°   [1] |_||_____|     [2] !_____| |___!       °";
-				Escribir "°                                              °";
-				Escribir "°                                              °";
-				Escribir "°    °°°°°°°[0]          _____________         °";
-				Escribir "°    ¬v¬v¬v¬    O       /             \        °";
-				Escribir "°    v!v!v!v   -|-     /|_ _ _ _ _ _ _|\       °";
-				Escribir "°           zO /l      \/[][][] [][][]\/       °";
-				Escribir "°                       | - - - - - - |        °";	
-				Escribir "°     _______           |_RRRR_| |_RRR|        °";
-				Escribir "°    |///////|                                 °";
-				Escribir "°    |///////|          °°°°°°°°[3]°°°°        °";                      
-				Escribir "°°   |///////|°         v¬¬v¬i¬¬v¬i¬v¬         °";
-				Escribir "°°°°°°///////°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°";
+				Escribir "Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â° [4] Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°";
+				Escribir "Â°         ______             _________         Â°";
+				Escribir "Â°        /------\           /---------\        Â°";
+				Escribir "Â°       | [_][_] |         | [__] _[_] |       Â°";
+				Escribir "Â°   [1] |_||_____|     [2] !_____| |___!       Â°";
+				Escribir "Â°                                              Â°";
+				Escribir "Â°                                              Â°";
+				Escribir "Â°    Â°Â°Â°Â°Â°Â°Â°[0]          _____________         Â°";
+				Escribir "Â°    Â¬vÂ¬vÂ¬vÂ¬    O       /             \        Â°";
+				Escribir "Â°    v!v!v!v   -|-     /|_ _ _ _ _ _ _|\       Â°";
+				Escribir "Â°           zO /l      \/[][][] [][][]\/       Â°";
+				Escribir "Â°                       | - - - - - - |        Â°";	
+				Escribir "Â°     _______           |_RRRR_| |_RRR|        Â°";
+				Escribir "Â°    |///////|                                 Â°";
+				Escribir "Â°    |///////|          Â°Â°Â°Â°Â°Â°Â°Â°[3]Â°Â°Â°Â°        Â°";                      
+				Escribir "Â°Â°   |///////|Â°         vÂ¬Â¬vÂ¬iÂ¬Â¬vÂ¬iÂ¬vÂ¬         Â°";
+				Escribir "Â°Â°Â°Â°Â°Â°///////Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°";
 				Escribir " @----------------------------------------------@";
 				Escribir " |  0.- PUEBLO PALETA                           |";
 				Escribir " |  1.- Casa de ",jugador1,"                         |";
 				Escribir " |  2.- Casa de ",enemigo1,"                        |";
-				Escribir " |  3.- LABORATORIO DE INVESTIGACIÓN  de POKéMON|";
+				Escribir " |  3.- LABORATORIO DE INVESTIGACIÃ“N  de POKÃ©MON|";
 				Escribir " |             del PROFESOR OAK                 |";
-				Escribir " |  99.- Ayuda ¿?                               |";
+				Escribir " |  99.- Ayuda Â¿?                               |";
 				Escribir " @----------------------------------------------@";
 				Leer opc3;
 			Hasta Que opc3==1 o opc3==2 o opc3==3 o opc3==4 o opc3==0 o opc3=99		
 			
 			si opc3=0 entonces
-				Escribir " Pueblo Paleta ¡Un lienzo en blanco de tu viaje!";
+				Escribir " Pueblo Paleta Â¡Un lienzo en blanco de tu viaje!";
 				Esperar Tecla;
 			FinSi
 			si opc3=99 Entonces
@@ -1198,7 +1198,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 				Escribir " |  	              Opcion 2                      |";
 				Escribir " |          Enfrentamiento 1vs Cpu              |";
 				Escribir " |           - Batalla uno solo                 |";
-				Escribir " |           - 6 Pokémon vs 6                   |";
+				Escribir " |           - 6 PokÃ©mon vs 6                   |";
 				Escribir " |                                              |";
 				Escribir " |  	              Opcion 3                      |";
 				Escribir " |            - Cambiar pokemon                 |";
@@ -1228,7 +1228,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Escribir "XXXXXXXXXX@---------------------------@XXXXXXXXXX";
 					Escribir "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [3] Volver XXXXX";
 					Escribir "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
-					Escribir Sin Saltar "Eliga una opción :"; 
+					Escribir Sin Saltar "Eliga una opciÃ³n :"; 
 					Leer opc4;
 				Hasta Que opc4==1 o opc4==2 o opc4==3
 				
@@ -1369,12 +1369,12 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 						Escribir "XXXXXXXXXX|   1.- 1 V/s 1             |XXXXXXXXXX";
 						Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 						Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
-						Escribir "XXXXXXXXXX|   2.- Duelo 6 POKéMON     |XXXXXXXXXX";
+						Escribir "XXXXXXXXXX|   2.- Duelo 6 POKÃ©MON     |XXXXXXXXXX";
 						Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 						Escribir "XXXXXXXXXX@---------------------------@XXXXXXXXXX";
 						Escribir "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [3] Volver XXXXXX";
 						Escribir "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
-						Escribir Sin Saltar "Eliga una opción :"; 
+						Escribir Sin Saltar "Eliga una opciÃ³n :"; 
 						Leer opc6;
 					Hasta Que opc6==1 o opc6==2 o opc6==3
 					
@@ -1391,27 +1391,27 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					FinSi
 					si cantidadPoke==1 Entonces
 						si totalSalud==0 Entonces
-							Escribir "Ve de inmediato a curar a tu Pokémon";
+							Escribir "Ve de inmediato a curar a tu PokÃ©mon";
 							Esperar Tecla;
 						FinSi
 						si eneTotalSalud==0 y totalSalud>0 Entonces
-							Escribir "El Pokémon de ",enemigo1, " está debilidato. ";
+							Escribir "El PokÃ©mon de ",enemigo1, " estÃ¡ debilidato. ";
 							Escribir "Ve a Curar a tu Pikachu y curaras al EEVEE de ",enemigo1;
 							Esperar Tecla;
 						FinSi
 					FinSi
 					si cantidadPoke==6 Entonces
 						si totalSalud==0 Entonces
-							Escribir "Ve de inmediato a curar a tus Pokémon";
+							Escribir "Ve de inmediato a curar a tus PokÃ©mon";
 							Esperar Tecla;
 						FinSi
 						si eneTotalSalud==0 y totalSalud>0 Entonces
-							Escribir "Los Pokémon de ",enemigo1, " estan debilidatos";
+							Escribir "Los PokÃ©mon de ",enemigo1, " estan debilidatos";
 							Escribir "Ve a Curar los tuyos y curaras lo de el tambien";
 							Esperar Tecla;
 						FinSi
 						si eneTotalSalud>0 y totalSalud==0 Entonces
-							Escribir "¡",jugador1, "Tus Pokémon estan debilidatos!";
+							Escribir "Â¡",jugador1, "Tus PokÃ©mon estan debilidatos!";
 							Escribir "Ve a curarlos a tu casa";
 							Esperar Tecla;
 						FinSi
@@ -1435,7 +1435,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							Repetir
 								Limpiar Pantalla;
 								Escribir "";
-								Escribir "       ¿Que pokemon vas a usar?";
+								Escribir "       Â¿Que pokemon vas a usar?";
 								Escribir "";
 								Escribir "Lista de tus pokemones            |   Lista de los pokemones enemigos ";
 								Escribir "             Nivel                            Nivel";
@@ -1509,31 +1509,31 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 								Escribir "6.- ", miPoke[5],"  ",miNivel[5],"     ",life[5],"        |          ",enePoke[5],"  ", eneNivel[5],"     ",life[11];
 								Escribir "";
 								Escribir "";
-								Escribir "                                                  Opción 0 VOLVER";
+								Escribir "                                                  OpciÃ³n 0 VOLVER";
 								leer opcMiPoke;
 								start=Verdadero;
 								si opcMiPoke==1 y miPokeH1[0]==0 Entonces
-									Escribir "Pokémon ",miPoke[0]," debilitado, ve al laboratorio para Curarlo"; 
+									Escribir "PokÃ©mon ",miPoke[0]," debilitado, ve al laboratorio para Curarlo"; 
 									Esperar Tecla;
 								FinSi								
 								si opcMiPoke==2 y miPokeH2[0]==0 Entonces
-									Escribir "Pokémon ",miPoke[1]," debilitado, ve al laboratorio para Curarlo";
+									Escribir "PokÃ©mon ",miPoke[1]," debilitado, ve al laboratorio para Curarlo";
 									Esperar Tecla;
 								FinSi								
 								si opcMiPoke==3 y miPokeH3[0]==0 Entonces
-									Escribir "Pokémon ",miPoke[2]," debilitado, ve al laboratorio para Curarlo"; 
+									Escribir "PokÃ©mon ",miPoke[2]," debilitado, ve al laboratorio para Curarlo"; 
 									Esperar Tecla;
 								FinSi								
 								si opcMiPoke==4 y miPokeH4[0]==0 Entonces
-									Escribir "Pokémon ",miPoke[3]," debilitado, ve al laboratorio para Curarlo"; 
+									Escribir "PokÃ©mon ",miPoke[3]," debilitado, ve al laboratorio para Curarlo"; 
 									Esperar Tecla;
 								FinSi								
 								si opcMiPoke==5 y miPokeH5[0]==0 Entonces
-									Escribir "Pokémon ",miPoke[4]," debilitado, ve al laboratorio para Curarlo"; 
+									Escribir "PokÃ©mon ",miPoke[4]," debilitado, ve al laboratorio para Curarlo"; 
 									Esperar Tecla;
 								FinSi								
 								si opcMiPoke==6 y miPokeH6[0]==0 Entonces
-									Escribir "Pokémon ",miPoke[5]," debilitado, ve al laboratorio para Curarlo"; 
+									Escribir "PokÃ©mon ",miPoke[5]," debilitado, ve al laboratorio para Curarlo"; 
 									Esperar Tecla;
 								FinSi								
 							Hasta Que opcMiPoke==1 y miPokeH1[0]>0 o opcMiPoke==2 y miPokeH2[0]>0  o opcMiPoke==3 y miPokeH3[0]>0  o opcMiPoke==4 y miPokeH4[0]>0  o opcMiPoke==5 y miPokeH5[0]>0  o opcMiPoke==6 y miPokeH6[0]>0 o opcMiPoke==0
@@ -1629,42 +1629,42 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 									Escribir "6.- ", miPoke[5],"  ",miNivel[5],"     ",life[5],"        |          ",enePoke[5],"  ", eneNivel[5],"     ",life[11];
 									Escribir "";
 									Escribir "";
-									Escribir "                                                  Opción 0 VOLVER";
+									Escribir "                                                  OpciÃ³n 0 VOLVER";
 									leer opcMiPoke;
 									start=Verdadero;
 									si opcMiPoke==1 y miPokeH1[0]==0 Entonces
-										Escribir "Pokémon ",miPoke[0]," debilitado, ve al laboratorio para Curarlo"; 
+										Escribir "PokÃ©mon ",miPoke[0]," debilitado, ve al laboratorio para Curarlo"; 
 										Esperar Tecla;
 									FinSi								
 									si opcMiPoke==2 y miPokeH2[0]==0 Entonces
-										Escribir "Pokémon ",miPoke[1]," debilitado, ve al laboratorio para Curarlo";
+										Escribir "PokÃ©mon ",miPoke[1]," debilitado, ve al laboratorio para Curarlo";
 										Esperar Tecla;
 									FinSi								
 									si opcMiPoke==3 y miPokeH3[0]==0 Entonces
-										Escribir "Pokémon ",miPoke[2]," debilitado, ve al laboratorio para Curarlo"; 
+										Escribir "PokÃ©mon ",miPoke[2]," debilitado, ve al laboratorio para Curarlo"; 
 										Esperar Tecla;
 									FinSi								
 									si opcMiPoke==4 y miPokeH4[0]==0 Entonces
-										Escribir "Pokémon ",miPoke[3]," debilitado, ve al laboratorio para Curarlo"; 
+										Escribir "PokÃ©mon ",miPoke[3]," debilitado, ve al laboratorio para Curarlo"; 
 										Esperar Tecla;
 									FinSi								
 									si opcMiPoke==5 y miPokeH5[0]==0 Entonces
-										Escribir "Pokémon ",miPoke[4]," debilitado, ve al laboratorio para Curarlo"; 
+										Escribir "PokÃ©mon ",miPoke[4]," debilitado, ve al laboratorio para Curarlo"; 
 										Esperar Tecla;
 									FinSi								
 									si opcMiPoke==6 y miPokeH6[0]==0 Entonces
-										Escribir "Pokémon ",miPoke[5]," debilitado, ve al laboratorio para Curarlo"; 
+										Escribir "PokÃ©mon ",miPoke[5]," debilitado, ve al laboratorio para Curarlo"; 
 										Esperar Tecla;
 									FinSi								
 								Hasta Que opcMiPoke==1 y miPokeH1[0]>0 o opcMiPoke==2 y miPokeH2[0]>0  o opcMiPoke==3 y miPokeH3[0]>0  o opcMiPoke==4 y miPokeH4[0]>0  o opcMiPoke==5 y miPokeH5[0]>0  o opcMiPoke==6 y miPokeH6[0]>0 o opcMiPoke==0
 								
 							sino 	
 								si cantidadPoke==1 Entonces
-									Escribir jugador1," tienes que tener 6 Pokémon para poder jugar";
+									Escribir jugador1," tienes que tener 6 PokÃ©mon para poder jugar";
 									Esperar 2 Segundos;
 								FinSi
 								si cantidadPoke==6 Entonces
-									Escribir jugador1, "¡Los pokemones no tienen toda sus vidas!";
+									Escribir jugador1, "Â¡Los pokemones no tienen toda sus vidas!";
 									Esperar 3 Segundos;
 								FinSi
 								opcMiPoke=0;
@@ -2035,7 +2035,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 								si eneSaludPoke<=0 Entonces
 									eneSaludPoke=0;
 									eneSaludFija=eneSaludPoke;
-									Escribir "Pokémon enemigo bajo de vida";
+									Escribir "PokÃ©mon enemigo bajo de vida";
 									Esperar 2 Segundos;
 								Sino								
 									eneSaludPoke=eneSaludPoke+((eneLVL-1)*3);
@@ -2045,7 +2045,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 								si miSaludPoke<=0 Entonces
 									miSaludPoke=0;
 									miSaludFija=miSaludPoke;
-									Escribir "Pokémon Bajo de vida ", jugador1;
+									Escribir "PokÃ©mon Bajo de vida ", jugador1;
 									Esperar 2 Segundos;
 								Sino
 									miSaludPoke=miSaludPoke+((miLVL-1)*3);
@@ -2094,10 +2094,10 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 									Escribir "                             |       ";
 									Escribir "                             | ";
 									Escribir "                             |-----------------";
-									Escribir "°------------------------------------------------°";
-									Escribir "|   ", enemigo1, " Envió a ",eneNombrePoke;
+									Escribir "Â°------------------------------------------------Â°";
+									Escribir "|   ", enemigo1, " EnviÃ³ a ",eneNombrePoke;
 									Escribir "|   ";
-									Escribir "°------------------------------------------------°";
+									Escribir "Â°------------------------------------------------Â°";
 									Esperar 2 Segundos;		
 								FinSi
 								
@@ -2110,7 +2110,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							// Visual grafico
 							Repetir
 								Limpiar Pantalla;
-								Escribir "                                 0 = Pokédex (Ayuda)";
+								Escribir "                                 0 = PokÃ©dex (Ayuda)";
 								Escribir "|----------------------";
 								Escribir "| ",eneNombrePoke;
 								Escribir "|              Nv ", eneLVL;
@@ -2126,10 +2126,10 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 								Escribir "     /_\      /_\            |        Nv ", miLVL;
 								Escribir "       |      |              | Ps : ", miSaludPoke, "/",miSaludFija;
 								Escribir "      /_\____/_\             |-----------------";
-								Escribir "°------------------------------------------------°";
+								Escribir "Â°------------------------------------------------Â°";
 								Escribir "|   [1]",miNombreAtaque[0],"(",miPP[0],"/",miFijoPP[0],")        [2]",miNombreAtaque[1],"(",miPP[1],"/",miFijoPP[1],")";
 								Escribir "|   [3]",miNombreAtaque[2],"(",miPP[2],"/",miFijoPP[2],")        [4]",miNombreAtaque[3],"(",miPP[3],"/",miFijoPP[3],")";
-								Escribir "°------------------------------------------------°";
+								Escribir "Â°------------------------------------------------Â°";
 								
 								leer opcionAtaque;								
 								si opcionAtaque == 0 Entonces
@@ -2140,21 +2140,21 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 									Escribir "Pokemon Enemigo :", eneNombrePoke, " Nivel ", eneLVL ;
 									Escribir "         Tipo pokemon: ",eneTipo[0],"/",eneTipo[1],"    Ps: ", eneSaludPoke;
 									Escribir "                        Defensa: ", eneDefensaPoke, "  Velocidad: ", eneVelocidadPoke;
-									Escribir "ATAQUES Pokémon";
-									Escribir "1.- ",eneNombreAtaque[0]," | Tipo : ", eneTipoA[0]," | pp : ",enePP[0],"  daño: ", eneDano[0]; 
-									Escribir "2.- ",eneNombreAtaque[1]," | Tipo : ", eneTipoA[1]," | pp : ",enePP[1],"  daño: ", eneDano[1]; 
-									Escribir "3.- ",eneNombreAtaque[2]," | Tipo : ", eneTipoA[2]," | pp : ",enePP[2],"  daño: ", eneDano[2]; 
-									Escribir "4.- ",eneNombreAtaque[3]," | Tipo : ", eneTipoA[3]," | pp : ",enePP[3],"  daño: ", eneDano[3]; 
+									Escribir "ATAQUES PokÃ©mon";
+									Escribir "1.- ",eneNombreAtaque[0]," | Tipo : ", eneTipoA[0]," | pp : ",enePP[0],"  daÃ±o: ", eneDano[0]; 
+									Escribir "2.- ",eneNombreAtaque[1]," | Tipo : ", eneTipoA[1]," | pp : ",enePP[1],"  daÃ±o: ", eneDano[1]; 
+									Escribir "3.- ",eneNombreAtaque[2]," | Tipo : ", eneTipoA[2]," | pp : ",enePP[2],"  daÃ±o: ", eneDano[2]; 
+									Escribir "4.- ",eneNombreAtaque[3]," | Tipo : ", eneTipoA[3]," | pp : ",enePP[3],"  daÃ±o: ", eneDano[3]; 
 									Escribir "";
 									Escribir "",jugador1;
-									Escribir "Nombre Pokémon:", miNombrePoke, " Nivel ", miLVL ;
+									Escribir "Nombre PokÃ©mon:", miNombrePoke, " Nivel ", miLVL ;
 									Escribir "         Tipo pokemon: ",miTipo[0],"/",miTipo[1],"      Ps: ", miSaludPoke;
 									Escribir "                          Defensa: ", miDefensaPoke, "  Velocidad: ", miVelocidadPoke;
-									Escribir "ATAQUES Pokémon";
-									Escribir "1.- ",miNombreAtaque[0]," | Tipo : ", miTipoA[0]," | pp : ",miPP[0],"  daño: ", miDano[0]; 
-									Escribir "2.- ",miNombreAtaque[1]," | Tipo : ", miTipoA[1]," | pp : ",miPP[1],"  daño: ", miDano[1]; 
-									Escribir "3.- ",miNombreAtaque[2]," | Tipo : ", miTipoA[2]," | pp : ",miPP[2],"  daño: ", miDano[2]; 
-									Escribir "4.- ",miNombreAtaque[3]," | Tipo : ", miTipoA[3]," | pp : ",miPP[3],"  daño: ", miDano[3]; 								
+									Escribir "ATAQUES PokÃ©mon";
+									Escribir "1.- ",miNombreAtaque[0]," | Tipo : ", miTipoA[0]," | pp : ",miPP[0],"  daÃ±o: ", miDano[0]; 
+									Escribir "2.- ",miNombreAtaque[1]," | Tipo : ", miTipoA[1]," | pp : ",miPP[1],"  daÃ±o: ", miDano[1]; 
+									Escribir "3.- ",miNombreAtaque[2]," | Tipo : ", miTipoA[2]," | pp : ",miPP[2],"  daÃ±o: ", miDano[2]; 
+									Escribir "4.- ",miNombreAtaque[3]," | Tipo : ", miTipoA[3]," | pp : ",miPP[3],"  daÃ±o: ", miDano[3]; 								
 									Esperar Tecla;
 								FinSi										
 								
@@ -2429,7 +2429,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 								miEstado="Poco Eficaz";
 							FinSi
 							si miE==1 Entonces
-								miEstado="Daño normal";
+								miEstado="DaÃ±o normal";
 							FinSi
 							si miE==2 Entonces
 								miEstado="Muy Efectivo";
@@ -2440,7 +2440,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							//definir tipo de ataque, especial o normal
 							//################################################################################################
-							//########################### D A Ñ O   P O R  EL TIPO #########################
+							//########################### D A Ã‘ O   P O R  EL TIPO #########################
 							//################################################################################################
 							//################################################################################################
 							estadoA="";
@@ -2451,7 +2451,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							eneEst=""; //Estado favorable para el enemigo
 							
 							Si TipoE="FUEGO" y miAtaque<>"Giro Fuego" y (eneTipo[0]<>"FUEGO" o eneTipo[1]<>"FUEGO") Entonces
-								Si (miAtaque="Ascuas" o miAtaque="Lanza Llamas" o miAtaque="Puño Fuego") y Suerte<=30 Entonces
+								Si (miAtaque="Ascuas" o miAtaque="Lanza Llamas" o miAtaque="PuÃ±o Fuego") y Suerte<=30 Entonces
 									estadoA="Quemado";
 								FinSi
 							FinSi
@@ -2471,7 +2471,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 										FinSi										
 									FinSi
 									Suerte=azar[101];
-									Si Suerte<=20 y miAtaque="Puño Trueno"  Entonces										
+									Si Suerte<=20 y miAtaque="PuÃ±o Trueno"  Entonces										
 										estadoA="Paralizado";										
 									FinSi
 									si Suerte<=30 y miAtaque="Rayo" Entonces
@@ -2486,7 +2486,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							//CONGELAR
 							
 							Si TipoE="HIELO" Entonces
-								si (miAtaque="Rayo Hielo" O miAtaque="Vendisca" o  miAtaque="Puño Hielo") y Suerte<=29 y (eneTipo[0]<>"HIELO" o eneTipo[1]<>"HIELO") Entonces
+								si (miAtaque="Rayo Hielo" O miAtaque="Vendisca" o  miAtaque="PuÃ±o Hielo") y Suerte<=29 y (eneTipo[0]<>"HIELO" o eneTipo[1]<>"HIELO") Entonces
 									estadoA="Congelado";
 								FinSi								
 							FinSi
@@ -2567,7 +2567,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 								miPoderAtaque=70;
 							Sino
 								si miAtaque="Patada Salto" y suerte>30 Entonces
-									miEst="Me hice daño";
+									miEst="Me hice daÃ±o";
 									miSaludPoke=miSaludPoke-(miSaludPoke/8);
 									miSaludPoke=Trunc(miSaludPoke);
 								FinSi
@@ -2589,7 +2589,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							
 							//Golpe Karate 
-							//Golpe Karate es Tipo Normal en esta generacion y tiene un alto porcentaje de daño critico
+							//Golpe Karate es Tipo Normal en esta generacion y tiene un alto porcentaje de daÃ±o critico
 							Si miAtaque="Golpe Karate" Entonces
 								Si Suerte>=60 Entonces
 									miEst="ha hecho un Critico favorable";
@@ -2598,7 +2598,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							FinSi
 							
 							//Tienieblas
-							//Tienielas es un ataque tipo fantasma que hace un daño al enemigo, igual al del nivel del atacante
+							//Tienielas es un ataque tipo fantasma que hace un daÃ±o al enemigo, igual al del nivel del atacante
 							Si miAtaque="Tinieblas" y (eneTipo[0]<>"NORMAL" o  eneTipo[1]<>"NORMAL") Entonces
 								eneSaludPoke=eneSaludPoke-miLVL;
 								eneSaludPoke=trunc(eneSaludPoke);
@@ -2710,7 +2710,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							FinSi
 							Si estadoA="Debilitado" Entonces
 								eneSaludPoke=0;
-								estadoFE="El Pokémon enemigo esta debilitado";
+								estadoFE="El PokÃ©mon enemigo esta debilitado";
 								paralizadoE=Verdadero;
 							FinSi
 							
@@ -2728,11 +2728,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							
 							
-							//					Calculo del daño
+							//					Calculo del daÃ±o
 							miTotalDano=0.01*B*miE*V*((((0.2+miLVL+1)*AtaquePoke*miPoderAtaque)/(25*eneDefensaPoke))+2);							
 							miTotalDano=TRUNC(miTotalDano);
 							
-							//************************* Enemigo  CALCULO DE DAÑO
+							//************************* Enemigo  CALCULO DE DAÃ‘O
 							
 							Repetir
 								opcionAtaque=azar(5);
@@ -2982,7 +2982,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 								eneEstado="Poco Eficaz";
 							FinSi
 							si miE==1 Entonces
-								eneEstado="Daño normal";
+								eneEstado="DaÃ±o normal";
 							FinSi
 							si miE==2 Entonces
 								eneEstado="Muy Efectivo";
@@ -2990,7 +2990,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							//definir tipo de ataque, especial o normal
 							//################################################################################################
-							//########################### D A Ñ O   P O R  EL TIPO #########################
+							//########################### D A Ã‘ O   P O R  EL TIPO #########################
 							//################################################################################################
 							//################################################################################################
 							estadoE="";
@@ -2999,7 +2999,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							eneEst=""; //Estado favorable para el enemigo
 							
 							Si TipoX="FUEGO" y eneAtaque<>"Giro Fuego" y (miTipo[0]<>"FUEGO" o miTipo[1]<>"FUEGO") Entonces
-								Si (eneAtaque="Ascuas" o eneAtaque="Lanza Llamas" o eneAtaque="Puño Fuego") y Suerte<=30 Entonces
+								Si (eneAtaque="Ascuas" o eneAtaque="Lanza Llamas" o eneAtaque="PuÃ±o Fuego") y Suerte<=30 Entonces
 									estadoE="Quemado";
 								FinSi
 							FinSi
@@ -3021,7 +3021,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 										FinSi										
 									FinSi
 									Suerte=azar[101];
-									Si Suerte<=20 y eneAtaque="Puño Trueno"  Entonces										
+									Si Suerte<=20 y eneAtaque="PuÃ±o Trueno"  Entonces										
 										estadoE="Paralizado";										
 									FinSi
 									si Suerte<=30 y eneAtaque="Rayo" Entonces
@@ -3044,7 +3044,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							//CONGELAR
 							
 							Si TipoX="HIELO" Entonces
-								si (eneAtaque="Rayo Hielo" O eneAtaque="Vendisca" o  eneAtaque="Puño Hielo") y Suerte<=29 y (miTipo[0]<>"HIELO" o miTipo[1]<>"HIELO") Entonces
+								si (eneAtaque="Rayo Hielo" O eneAtaque="Vendisca" o  eneAtaque="PuÃ±o Hielo") y Suerte<=29 y (miTipo[0]<>"HIELO" o miTipo[1]<>"HIELO") Entonces
 									estadoE="Congelado";
 								FinSi								
 							FinSi
@@ -3125,7 +3125,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 								enePoderAtaque=70;
 							Sino
 								si eneAtaque="Patada Salto" y suerte>30 Entonces
-									eneEst="se ha hecho daño";
+									eneEst="se ha hecho daÃ±o";
 									eneSaludPoke=eneSaludPoke-(eneSaludPoke/8);
 									eneSaludPoke=Trunc(eneSaludPoke);
 								FinSi
@@ -3147,7 +3147,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							
 							//Golpe Karate 
-							//Golpe Karate es Tipo Normal en esta generacion y tiene un alto porcentaje de daño critico
+							//Golpe Karate es Tipo Normal en esta generacion y tiene un alto porcentaje de daÃ±o critico
 							Si eneAtaque="Golpe Karate" Entonces
 								Si Suerte>=60 Entonces
 									eneEst="ha hecho un Critico";
@@ -3156,7 +3156,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							FinSi
 							
 							//Tienieblas
-							//Tienielas es un ataque tipo fantasma que hace un daño al enemigo, igual al del nivel del atacante
+							//Tienielas es un ataque tipo fantasma que hace un daÃ±o al enemigo, igual al del nivel del atacante
 							Si eneAtaque="Tinieblas" y (miTipo[0]<>"NORMAL" o  miTipo[1]<>"NORMAL") Entonces
 								miSaludPoke=miSaludPoke-eneLVL;
 								miSaludPoke=trunc(miSaludPoke);
@@ -3270,7 +3270,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							FinSi
 							Si estadoE="Debilitado" Entonces
 								miSaludPoke=0;
-								estadoFA="El Pokémon enemigo esta debilitado";
+								estadoFA="El PokÃ©mon enemigo esta debilitado";
 								paralizadoA=Verdadero;
 							FinSi
 							
@@ -3294,7 +3294,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							
 							
-							// ¿Quien Ataca Primero ? 
+							// Â¿Quien Ataca Primero ? 
 							
 							miV=azar(miVelocidadPoke+1);
 							eneV=azar(eneVelocidadPoke+1);
@@ -3305,14 +3305,14 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 									eneSaludPoke=eneSaludPoke-miTotalDano;
 									
 									
-									Escribir "¡",miNombrePoke, " usó ", miAtaque,"!";	
+									Escribir "Â¡",miNombrePoke, " usÃ³ ", miAtaque,"!";	
 									Esperar 2 Segundos;
 									si miEst<>"" Entonces
-										Escribir "¡mi Pokémon ",miNombrePoke," ",miEst,"!";
+										Escribir "Â¡mi PokÃ©mon ",miNombrePoke," ",miEst,"!";
 										Esperar 2 Segundos;
 									FinSi
 									si estadoFE<>"" Entonces
-										Escribir "¡El Pokémon ",eneNombrePoke," ", estadoFE,"!";
+										Escribir "Â¡El PokÃ©mon ",eneNombrePoke," ", estadoFE,"!";
 										Esperar 2 Segundos;
 									FinSi
 									
@@ -3328,14 +3328,14 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 									si eneSaludPoke > 0 Entonces
 										miSaludPoke=miSaludPoke-eneTotalDano; 
 										
-										Escribir "¡Enemigo ",eneNombrePoke, " usó ", eneAtaque,"!";
+										Escribir "Â¡Enemigo ",eneNombrePoke, " usÃ³ ", eneAtaque,"!";
 									    Esperar 2 Segundos;
 										si eneEst<>"" Entonces
-											Escribir "¡Enemigo Pokémon ",eneNombrePoke," ",eneEst,"!";
+											Escribir "Â¡Enemigo PokÃ©mon ",eneNombrePoke," ",eneEst,"!";
 											Esperar 2 Segundos;
 										FinSi
 										si estadoFA<>"" Entonces
-											Escribir "¡mi Pokémon ",miNombrePoke," ", estadoFA,"!";
+											Escribir "Â¡mi PokÃ©mon ",miNombrePoke," ", estadoFA,"!";
 											Esperar 2 Segundos;
 										FinSi
 										
@@ -3353,14 +3353,14 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 									miSaludPoke=miSaludPoke-eneTotalDano;
 									
 									
-									Escribir "¡Enemigo ",eneNombrePoke, " usó ", eneAtaque,"!";
+									Escribir "Â¡Enemigo ",eneNombrePoke, " usÃ³ ", eneAtaque,"!";
 									Esperar 2 Segundos;		
 									si eneEst<>"" Entonces
-										Escribir "¡Enemigo Pokémon ",eneNombrePoke," ",eneEst,"!";
+										Escribir "Â¡Enemigo PokÃ©mon ",eneNombrePoke," ",eneEst,"!";
 										Esperar 2 Segundos;
 									FinSi
 									si estadoFA<>"" Entonces
-										Escribir "¡mi Pokémon ",miNombrePoke," ", estadoFA,"!";
+										Escribir "Â¡mi PokÃ©mon ",miNombrePoke," ", estadoFA,"!";
 										Esperar 2 Segundos;
 									FinSi
 									
@@ -3373,14 +3373,14 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 									
 									si miSaludPoke > 0 Entonces
 										eneSaludPoke=eneSaludPoke-miTotalDano;
-										Escribir "¡",miNombrePoke, " usó ", miAtaque,"!";
+										Escribir "Â¡",miNombrePoke, " usÃ³ ", miAtaque,"!";
 										Esperar 2 Segundos;
 										si miEst<>"" Entonces
-											Escribir "¡mi Pokémon ",miNombrePoke," ",miEst,"!";
+											Escribir "Â¡mi PokÃ©mon ",miNombrePoke," ",miEst,"!";
 											Esperar 2 Segundos;
 										FinSi
 										si estadoFE<>"" Entonces
-											Escribir "¡El Pokémon ",eneNombrePoke," ", estadoFE,"!";
+											Escribir "Â¡El PokÃ©mon ",eneNombrePoke," ", estadoFE,"!";
 											Esperar 2 Segundos;
 										FinSi								
 										
@@ -3400,17 +3400,17 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							// EL ATACA
 							si paralizadoA=Verdadero y paralizadoE=Falso Entonces
-								Escribir "¡Estas ", estadoFA,"!";
+								Escribir "Â¡Estas ", estadoFA,"!";
 								
 								miSaludPoke=miSaludPoke-eneTotalDano;
 								
 								
-								Escribir "¡Enemigo ",eneNombrePoke, " usó ", eneAtaque,"!";
+								Escribir "Â¡Enemigo ",eneNombrePoke, " usÃ³ ", eneAtaque,"!";
 								//Esperar 2 Segundos;								
 								
 								
 								si miSaludPoke < 0 Entonces									
-									Escribir "Ha muerto tu Pokémon";
+									Escribir "Ha muerto tu PokÃ©mon";
 									miHp=falso;								
 									miSaludPoke=0;
 								FinSi
@@ -3424,11 +3424,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							// YO ATACO
 							si paralizadoA=Falso y paralizadoE=Verdadero Entonces
 								//en el caso que yo 
-								Escribir "¡",eneNombrePoke," esta ", estadoFE,"!";
+								Escribir "Â¡",eneNombrePoke," esta ", estadoFE,"!";
 								
 								eneSaludPoke=eneSaludPoke-miTotalDano;
 								
-								Escribir "¡",miNombrePoke, " usó ", miAtaque,"!";
+								Escribir "Â¡",miNombrePoke, " usÃ³ ", miAtaque,"!";
 								//Esperar 2 Segundos;
 								si eneSaludPoke<= 0 Entonces
 									Escribir "Ha muerto el pokemon enemigo";
@@ -3444,8 +3444,8 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							//LOS DOS ESTAMOS DORMIDOS
 							si paralizadoA=Verdadero y paralizadoE=Verdadero Entonces
-								Escribir "¡",eneNombrePoke," esta ", estadoFE,"!";
-								Escribir "¡",miNombrePoke," esta ", estadoFA,"!";
+								Escribir "Â¡",eneNombrePoke," esta ", estadoFE,"!";
+								Escribir "Â¡",miNombrePoke," esta ", estadoFA,"!";
 								paralizadoA=Falso;
 								paralizadoE=Falso;
 								estadoFE="";
@@ -3480,11 +3480,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 									Escribir "     /_\      /_\            |        Nv ", miLVL;
 									Escribir "       |      |              | Ps : ", miSaludPoke, "/",miSaludFija;
 									Escribir "      /_\____/_\             |-----------------";
-									Escribir "°------------------------------------------------°";
-									Escribir "|  ¡Pokémon ", eneNombrePoke," debilitado!";
+									Escribir "Â°------------------------------------------------Â°";
+									Escribir "|  Â¡PokÃ©mon ", eneNombrePoke," debilitado!";
 									Esperar 1 Segundos;
-									Escribir "|   ¡",jugador1," has ganado este combate!";
-									Escribir "°------------------------------------------------°";
+									Escribir "|   Â¡",jugador1," has ganado este combate!";
+									Escribir "Â°------------------------------------------------Â°";
 								FinSi
 								si miSaludPoke==0 Entonces
 									si opc6==2 Entonces
@@ -3507,11 +3507,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 									Escribir "       /  !   \              |        Nv ", miLVL;
 									Escribir "      I     !  I             | Ps : 0/",miSaludFija;
 									Escribir "     /_\  !   /_\            |-----------------";
-									Escribir "°------------------------------------------------°";
-									Escribir "|  ¡Tu Pokémon ", miNombrePoke," se ha debilitado!";
+									Escribir "Â°------------------------------------------------Â°";
+									Escribir "|  Â¡Tu PokÃ©mon ", miNombrePoke," se ha debilitado!";
 									Esperar 1 Segundos;
-									Escribir "|   ¡",enemigo1," ha ganado este combate!";
-									Escribir "°------------------------------------------------°";
+									Escribir "|   Â¡",enemigo1," ha ganado este combate!";
+									Escribir "Â°------------------------------------------------Â°";
 								FinSi
 								
 								
@@ -3624,11 +3624,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 						Escribir "     /_\      /_\            |       ";
 						Escribir "       |      |              | G A N A D O R ";
 						Escribir "      /_\____/_\             |-----------------";
-						Escribir "°------------------------------------------------°";
-						Escribir "|  ",enemigo1, ": ¡Maldito! ¡me has ganado!";
+						Escribir "Â°------------------------------------------------Â°";
+						Escribir "|  ",enemigo1, ": Â¡Maldito! Â¡me has ganado!";
 						Esperar 1 Segundos;
-						Escribir "|  ¡Nos volveremos a encontrar y te pateare el trasero!";
-						Escribir "°------------------------------------------------°";
+						Escribir "|  Â¡Nos volveremos a encontrar y te pateare el trasero!";
+						Escribir "Â°------------------------------------------------Â°";
 						Esperar Tecla;
 						miContWin=0;
 						eneContWin=0;
@@ -3651,11 +3651,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 						Escribir "       /  !   \              | ";
 						Escribir "      I     !  I             |  P E R D E D O R ";
 						Escribir "     /_\  !   /_\            |-----------------";
-						Escribir "°------------------------------------------------°";
-						Escribir "|  ¡Te he ganado ",jugador1,", eres muy malo!";
+						Escribir "Â°------------------------------------------------Â°";
+						Escribir "|  Â¡Te he ganado ",jugador1,", eres muy malo!";
 						Esperar 1 Segundos;
-						Escribir "|   ¡Nos volveremos a ver, sigue entrenando !";
-						Escribir "°------------------------------------------------°";
+						Escribir "|   Â¡Nos volveremos a ver, sigue entrenando !";
+						Escribir "Â°------------------------------------------------Â°";
 						Esperar Tecla;
 						miContWin=0;
 						eneContWin=0;
@@ -3700,17 +3700,17 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Escribir "XXXXXXXXXX@---------------------------@XXXXXXXXXX";
 					Escribir "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [3] Volver XXXXXXX";
 					Escribir "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
-					Escribir Sin Saltar "Eliga una opción :"; 
+					Escribir Sin Saltar "Eliga una opciÃ³n :"; 
 					Leer opc5;
 				Hasta Que opc5==1 o opc5==2 O opc5==3
 				
 				si opc5==2 Entonces
 					si cantidadPoke==1 Entonces
 						Escribir "";
-						Escribir "¡Reiniciando PP tu Pokémon ", jugador1,"!";
+						Escribir "Â¡Reiniciando PP tu PokÃ©mon ", jugador1,"!";
 						Esperar 2 Segundos;
 						Escribir "";
-						Escribir "¡Reiniciando PP de los Pokémon ", enemigo1,"!";
+						Escribir "Â¡Reiniciando PP de los PokÃ©mon ", enemigo1,"!";
 						Esperar 2 Segundos;
 						Para contX<-0 Hasta 3 Con Paso 1 Hacer						
 							ppA1[contX]=ppFA1[contX];
@@ -3719,10 +3719,10 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					FinSi
 					si cantidadPoke==6 Entonces
 						Escribir "";
-						Escribir "¡Reiniciando PP de tus Pokémon ",jugador1,"!";
+						Escribir "Â¡Reiniciando PP de tus PokÃ©mon ",jugador1,"!";
 						Esperar 2 Segundos;
 						Escribir "";
-						Escribir "¡Reiniciando PP de los Pokémon ", enemigo1,"!";
+						Escribir "Â¡Reiniciando PP de los PokÃ©mon ", enemigo1,"!";
 						Esperar 2 Segundos;
 						Para contX<-0 Hasta 3 Con Paso 1 Hacer							
 							ppA1[contX]=ppFA1[contX];
@@ -3762,7 +3762,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Limpiar Pantalla;
 					Escribir "            INVENTARIO                             POKEDEX                   INVENTARIO";
 					Escribir "@-----------------------------------------------------------------------------------------------------------@";
-					Escribir "| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
+					Escribir "| NÃšMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #1     | BULBASAUR   |  PLANTA  |  VENENO |   45    |   49     |   49    |    45     |    65    |   253   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
@@ -3784,11 +3784,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #10    | PIKACHU     | ELECTRICO|         |   35    |   55     |   30    |    90     |    50    |   260   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
-					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 1/8";
+					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             PÃ¡g 1/8";
 					Esperar Tecla;
 					Limpiar Pantalla;
 					Escribir "@-----------------------------------------------------------------------------------------------------------@";
-					Escribir "| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
+					Escribir "| NÃšMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #11    | SANDSHREW   |  TIERRA  |         |   50    |   75     |   85    |    40     |    30    |   280   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
@@ -3810,11 +3810,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #20    | VENONAT     |  BICHO   |  VENENO |   60    |   55     |   50    |    45     |    40    |   250   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
-					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 2/8";
+					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             PÃ¡g 2/8";
 					Esperar Tecla;
 					Limpiar Pantalla;
 					Escribir "@-----------------------------------------------------------------------------------------------------------@";
-					Escribir "| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
+					Escribir "| NÃšMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #21    | DIGLETT     |  TIERRA  |         |   10    |   55     |   25    |    95     |    45    |   230   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
@@ -3836,11 +3836,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #30    | TENTACOOL   |  AGUA    |   VENENO|	   40    |   40     |   35    |    70     |    100   |   285   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
-					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 3/8";
+					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             PÃ¡g 3/8";
 					Esperar Tecla;
 					Limpiar Pantalla;
 					Escribir "@-----------------------------------------------------------------------------------------------------------@";
-					Escribir "| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
+					Escribir "| NÃšMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #31    | GEODUDE     |  ROCA    |   TIERRA|   40    |   80     |   100   |    20     |    30    |   270   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
@@ -3850,7 +3850,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #34    | MAGNEMITE   | ELECTRICO|         |   25    |   35     |   70    |    45     |    95    |   270   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";	
-					Escribir "| #35    | FARFETC¨D   |  NORMAL  |  VOLADOR|   52    |   65     |   55    |    60     |    58    |   290   |";
+					Escribir "| #35    | FARFETCÂ¨D   |  NORMAL  |  VOLADOR|   52    |   65     |   55    |    60     |    58    |   290   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #36    | DODUO       |  NORMAL  |  VOLADOR|   35    |   85     |   45    |    75     |    35    |   275   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
@@ -3862,11 +3862,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #40    | GASTLY      |  FANTASMA|   VENENO|   30    |   35     |   30    |    80     |    45    |   280   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
-					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 4/8";
+					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             PÃ¡g 4/8";
 					Esperar Tecla;
 					Limpiar Pantalla;
 					Escribir "@-----------------------------------------------------------------------------------------------------------@";
-					Escribir "| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
+					Escribir "| NÃšMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #41    | ONIX        |  ROCA    |   TIERRA|   35    |   45     |   160   |    70     |    100   |   275   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
@@ -3888,11 +3888,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #50    | KOFFING     |  VENENO  |         |   40    |   65     |   95    |    35     |    35    |   345   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
-					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 5/8";
+					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             PÃ¡g 5/8";
 					Esperar Tecla;
 					Limpiar Pantalla;
 					Escribir "@-----------------------------------------------------------------------------------------------------------@";
-					Escribir "| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
+					Escribir "| NÃšMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #51    | RHYHORN     |  ROCA    |   TIERRA|   80    |   85     |   95    |    25     |    60    |   310   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
@@ -3914,11 +3914,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #60    | JYNX        |  HIELO   | PSIQUICO|   65    |   50     |   35    |    95     |    100   |   340   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
-					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 6/8";
+					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             PÃ¡g 6/8";
 					Esperar Tecla;
 					Limpiar Pantalla;
 					Escribir "@-----------------------------------------------------------------------------------------------------------@";
-					Escribir "| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
+					Escribir "| NÃšMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #61    | ELECTABUZZ  | ELECTRICO|         |   65    |   83     |   57    |    105    |    55    |   420   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
@@ -3940,11 +3940,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #70    | OMANYTE     |  ROCA    |  AGUA   |   35    |   40     |   100   |    35     |    90    |   300   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
-					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 7/8";
+					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             PÃ¡g 7/8";
 					Esperar Tecla;
 					Limpiar Pantalla;
 					Escribir "@-----------------------------------------------------------------------------------------------------------@";
-					Escribir "| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
+					Escribir "| NÃšMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #71    | KABUTO      |  ROCA    |     AGUA|   30    |   80     |   90    |    55     |    45    |   300   |";
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
@@ -3964,7 +3964,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 					Escribir "|-----------------------------------------------------------------------------------------------------------|";
 					Escribir "| #79    | MEW         |  PSIQUICO|         |   100   |   100    |   100   |    100    |    100   |   500   |";
 					Escribir "@-----------------------------------------------------------------------------------------------------------@";
-					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 8/8";
+					Escribir "PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             PÃ¡g 8/8";
 					Esperar Tecla;
 					err=0;
 					Para z<-2 Hasta 6 Con Paso 1 Hacer
@@ -4017,7 +4017,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							NombreAtaque[0]="Ascuas";   TipoAtaque[0]=pokemon[0] ;  pp[0]="25"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Lanza Llamas";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="100"; Dano[1]="95";
 							NombreAtaque[2]="Giro Fuego";   TipoAtaque[2]=pokemon[0] ;  pp[2]="15"; efectivo[2]="70"; Dano[2]="15";
-							NombreAtaque[3]="Puño Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
+							NombreAtaque[3]="PuÃ±o Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
 						FinSi						
 						//POKEMON 3
 						si p==3 Entonces
@@ -4095,7 +4095,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[6]="25";	
 							
 							NombreAtaque[0]="Desctructor";   TipoAtaque[0]=pokemon[0] ;  pp[0]="35"; efectivo[0]="100"; Dano[0]="40";
-							NombreAtaque[1]="Arañazo";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
+							NombreAtaque[1]="AraÃ±azo";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Doble Bofeton";   TipoAtaque[2]=pokemon[0] ;  pp[2]="10"; efectivo[2]="85"; Dano[2]="15";
 							NombreAtaque[3]="Placaje";   TipoAtaque[3]=pokemon[0] ;  pp[3]="35"; efectivo[3]="95"; Dano[3]="35";
 						FinSi						
@@ -4126,7 +4126,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="55";
 							pokemon[6]="40";
 							
-							NombreAtaque[0]="Ácido";   TipoAtaque[0]=pokemon[0] ;  pp[0]="30"; efectivo[0]="100"; Dano[0]="40";
+							NombreAtaque[0]="Ãcido";   TipoAtaque[0]=pokemon[0] ;  pp[0]="30"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Polvo Veneno";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="70"; Dano[1]="0";
 							NombreAtaque[2]="Residuos";   TipoAtaque[2]=pokemon[0] ;  pp[2]="20"; efectivo[2]="95"; Dano[2]="65";
 							NombreAtaque[3]="Picotazo Venenoso";   TipoAtaque[3]=pokemon[0] ;  pp[3]="30"; efectivo[3]="100"; Dano[3]="15";
@@ -4142,7 +4142,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="90";
 							pokemon[6]="50";
 							
-							NombreAtaque[0]="Puño Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
+							NombreAtaque[0]="PuÃ±o Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
 							NombreAtaque[1]="Trueno";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="70"; Dano[1]="120";
 							NombreAtaque[2]="Impactrueno";   TipoAtaque[2]=pokemon[0] ;  pp[2]="30"; efectivo[2]="100"; Dano[2]="40";
 							NombreAtaque[3]="Rayo";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="95";
@@ -4206,7 +4206,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="35";
 							pokemon[6]="60";
 							
-							NombreAtaque[0]="Mega Puño";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
+							NombreAtaque[0]="Mega PuÃ±o";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
 							NombreAtaque[1]="Destructor";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Placaje";   TipoAtaque[2]=pokemon[0] ;  pp[2]="35"; efectivo[2]="95"; Dano[2]="35";
 							NombreAtaque[3]="Chirridos";   TipoAtaque[3]=pokemon[0] ;  pp[3]="40"; efectivo[3]="85"; Dano[3]="0";
@@ -4225,7 +4225,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							NombreAtaque[0]="Asucas";   TipoAtaque[0]=pokemon[0] ;  pp[0]="25"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Lanza LLamas";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="100"; Dano[1]="95";
 							NombreAtaque[2]="Giro Fuego";   TipoAtaque[2]=pokemon[0] ;  pp[2]="15"; efectivo[2]="70"; Dano[2]="15";
-							NombreAtaque[3]="Puño Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
+							NombreAtaque[3]="PuÃ±o Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
 						FinSi					
 						//POKEMON 16
 						si p==16 Entonces
@@ -4239,7 +4239,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[6]="25";
 							
 							NombreAtaque[0]="Canto";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="55"; Dano[0]="0";
-							NombreAtaque[1]="Arañaso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
+							NombreAtaque[1]="AraÃ±aso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Placaje";   TipoAtaque[2]=pokemon[0] ;  pp[2]="35"; efectivo[2]="95"; Dano[2]="35";
 							NombreAtaque[3]="Chirridos";   TipoAtaque[3]=pokemon[0] ;  pp[3]="40"; efectivo[3]="85"; Dano[3]="0";
 						FinSi
@@ -4334,8 +4334,8 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="90";
 							pokemon[6]="40";
 							
-							NombreAtaque[0]="Mega Puño";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
-							NombreAtaque[1]="Arañaso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
+							NombreAtaque[0]="Mega PuÃ±o";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
+							NombreAtaque[1]="AraÃ±aso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Doble Bofeton";   TipoAtaque[2]=pokemon[0] ;  pp[2]="10"; efectivo[2]="85"; Dano[2]="15";
 							NombreAtaque[3]="Placaje";   TipoAtaque[3]=pokemon[0] ;  pp[3]="35"; efectivo[3]="95"; Dano[3]="35";
 						FinSi						
@@ -4385,7 +4385,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							NombreAtaque[0]="Ascuas";   TipoAtaque[0]=pokemon[0] ;  pp[0]="25"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Lanza Llamas";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="100"; Dano[1]="95";
 							NombreAtaque[2]="Giro Fuego";   TipoAtaque[2]=pokemon[0] ;  pp[2]="15"; efectivo[2]="70"; Dano[2]="15";
-							NombreAtaque[3]="Puño Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
+							NombreAtaque[3]="PuÃ±o Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
 						FinSi												
 						//POKEMON 26
 						si p==26 Entonces
@@ -4497,7 +4497,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							NombreAtaque[0]="Ascuas";   TipoAtaque[0]="NORMAL";  pp[0]="25"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Lanza Llamas";   TipoAtaque[1]=pokemon[0];  pp[1]="15"; efectivo[1]="100"; Dano[1]="95";
 							NombreAtaque[2]="Giro Fuego";   TipoAtaque[2]=pokemon[0];  pp[2]="15"; efectivo[2]="70"; Dano[2]="15";
-							NombreAtaque[3]="Puño Fuego";   TipoAtaque[3]=pokemon[0];  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
+							NombreAtaque[3]="PuÃ±o Fuego";   TipoAtaque[3]=pokemon[0];  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
 						FinSi					
 						//POKEMON 33
 						si p==33 Entonces
@@ -4526,7 +4526,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="45";
 							pokemon[6]="95";
 							
-							NombreAtaque[0]="Puño Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
+							NombreAtaque[0]="PuÃ±o Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
 							NombreAtaque[1]="Trueno";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="70"; Dano[1]="120";
 							NombreAtaque[2]="Impactrueno";   TipoAtaque[2]=pokemon[0] ;  pp[2]="30"; efectivo[2]="100"; Dano[2]="40";
 							NombreAtaque[3]="Rayo";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="95";
@@ -4686,7 +4686,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="100";
 							pokemon[6]="55";
 							
-							NombreAtaque[0]="Puño Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
+							NombreAtaque[0]="PuÃ±o Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
 							NombreAtaque[1]="Trueno";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="70"; Dano[1]="120";
 							NombreAtaque[2]="Impactrueno";   TipoAtaque[2]=pokemon[0] ;  pp[2]="30"; efectivo[2]="100"; Dano[2]="40";
 							NombreAtaque[3]="Rayo";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="95";
@@ -4766,7 +4766,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="30";
 							pokemon[6]="60";
 							
-							NombreAtaque[0]="Mega Puño";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
+							NombreAtaque[0]="Mega PuÃ±o";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
 							NombreAtaque[1]="Destructor";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Placaje";   TipoAtaque[2]=pokemon[0] ;  pp[2]="35"; efectivo[2]="95"; Dano[2]="35";
 							NombreAtaque[3]="Chirridos";   TipoAtaque[3]=pokemon[0] ;  pp[3]="40"; efectivo[3]="85"; Dano[3]="0";
@@ -4815,7 +4815,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[6]="50";
 							
 							NombreAtaque[0]="Destructor";   TipoAtaque[0]=pokemon[0] ;  pp[0]="35"; efectivo[0]="100"; Dano[0]="40";
-							NombreAtaque[1]="Arañaso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
+							NombreAtaque[1]="AraÃ±aso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Doble Bofeton";   TipoAtaque[2]=pokemon[0] ;  pp[2]="10"; efectivo[2]="85"; Dano[2]="15";
 							NombreAtaque[3]="Chirridos";   TipoAtaque[3]=pokemon[0] ;  pp[3]="40"; efectivo[3]="85"; Dano[3]="0";
 						FinSi
@@ -4847,7 +4847,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[6]="40";
 							
 							NombreAtaque[0]="Destructor";   TipoAtaque[0]=pokemon[0] ;  pp[0]="35"; efectivo[0]="100"; Dano[0]="40";
-							NombreAtaque[1]="Arañaso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
+							NombreAtaque[1]="AraÃ±aso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Doble Bofeton";   TipoAtaque[2]=pokemon[0] ;  pp[2]="10"; efectivo[2]="85"; Dano[2]="15";
 							NombreAtaque[3]="Placaje";   TipoAtaque[3]= pokemon[0];  pp[3]="35"; efectivo[3]="95"; Dano[3]="35";
 						FinSi	
@@ -4943,7 +4943,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[6]="95";
 							
 							NombreAtaque[0]="Psico Rayo";   TipoAtaque[0]=pokemon[1];  pp[0]="20"; efectivo[0]="100"; Dano[0]="65";
-							NombreAtaque[1]="Puño Hielo";   TipoAtaque[1]=pokemon[0];  pp[1]="15"; efectivo[1]="100"; Dano[1]="15";
+							NombreAtaque[1]="PuÃ±o Hielo";   TipoAtaque[1]=pokemon[0];  pp[1]="15"; efectivo[1]="100"; Dano[1]="15";
 							NombreAtaque[2]="Amnesia";      TipoAtaque[2]=pokemon[1];  pp[2]="20"; efectivo[2]="100"; Dano[2]="0";
 							NombreAtaque[3]="Doble Bofeton"; TipoAtaque[3]="NORMAL";   pp[3]="10";  efectivo[3]="85"; Dano[3]="15";
 						FinSi
@@ -4958,9 +4958,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="105";
 							pokemon[6]="85";
 							
-							NombreAtaque[0]="Puño Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
+							NombreAtaque[0]="PuÃ±o Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
 							NombreAtaque[1]="Golpe Karate";   TipoAtaque[1]="LUCHA" ;  pp[1]="25"; efectivo[1]="100"; Dano[1]="50";
-							NombreAtaque[2]="Mega Puño";   TipoAtaque[2]="NORMAL" ;  pp[2]="20"; efectivo[2]="85"; Dano[2]="80";
+							NombreAtaque[2]="Mega PuÃ±o";   TipoAtaque[2]="NORMAL" ;  pp[2]="20"; efectivo[2]="85"; Dano[2]="80";
 							NombreAtaque[3]="Rayo";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="95";
 						FinSi	
 						//POKEMON 
@@ -4976,7 +4976,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							NombreAtaque[0]="Ascuas";   TipoAtaque[0]= pokemon[0];  pp[0]="25"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Lanza LLamas";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="100"; Dano[1]="95";
-							NombreAtaque[2]="Puño Fuego";   TipoAtaque[2]=pokemon[0] ;  pp[2]="15"; efectivo[2]="100"; Dano[2]="75";
+							NombreAtaque[2]="PuÃ±o Fuego";   TipoAtaque[2]=pokemon[0] ;  pp[2]="15"; efectivo[2]="100"; Dano[2]="75";
 							NombreAtaque[3]="Placaje";   TipoAtaque[3]="NORMAL" ;  pp[3]="35"; efectivo[3]="95"; Dano[3]="35";
 						FinSi	
 						//POKEMON 
@@ -5237,7 +5237,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							
 							NombreAtaque[0]="Psico Rayo";   TipoAtaque[0]=pokemon[0] ;  pp[0]=""; efectivo[0]=""; Dano[0]="65";
-							NombreAtaque[1]="Mega Puño";   TipoAtaque[1]="NORMAL" ;  pp[1]="20"; efectivo[1]="85"; Dano[1]="80";
+							NombreAtaque[1]="Mega PuÃ±o";   TipoAtaque[1]="NORMAL" ;  pp[1]="20"; efectivo[1]="85"; Dano[1]="80";
 							NombreAtaque[2]="Ataque Psiquico";   TipoAtaque[2]=pokemon[0] ;  pp[2]="10"; efectivo[2]="100"; Dano[2]="90";
 							NombreAtaque[3]="Amnesia";   TipoAtaque[3]=pokemon[0] ;  pp[3]="20"; efectivo[3]="100"; Dano[3]="0";
 						FinSi	
@@ -5255,7 +5255,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							NombreAtaque[0]="Transformacion";   TipoAtaque[0]="NORMAL" ;  pp[0]="10"; efectivo[0]="100"; Dano[0]="0";
 							NombreAtaque[1]="Psico Rayo";   TipoAtaque[1]=pokemon[0] ;  pp[1]="10"; efectivo[1]="100"; Dano[1]="65";
-							NombreAtaque[2]="Mega Puño";   TipoAtaque[2]=pokemon[0] ;  pp[2]="20"; efectivo[2]="85"; Dano[2]="80";
+							NombreAtaque[2]="Mega PuÃ±o";   TipoAtaque[2]=pokemon[0] ;  pp[2]="20"; efectivo[2]="85"; Dano[2]="80";
 							NombreAtaque[3]="Amnesia";   TipoAtaque[3]=pokemon[0] ;  pp[3]="20"; efectivo[3]="100"; Dano[3]="0";
 						FinSi
 						
@@ -5458,7 +5458,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							NombreAtaque[0]="Ascuas";   TipoAtaque[0]=pokemon[0] ;  pp[0]="25"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Lanza Llamas";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="100"; Dano[1]="95";
 							NombreAtaque[2]="Giro Fuego";   TipoAtaque[2]=pokemon[0] ;  pp[2]="15"; efectivo[2]="70"; Dano[2]="15";
-							NombreAtaque[3]="Puño Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
+							NombreAtaque[3]="PuÃ±o Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
 						FinSi						
 						//POKEMON 3
 						si eleccionPoke==3 Entonces
@@ -5536,7 +5536,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[6]="25";	
 							
 							NombreAtaque[0]="Desctructor";   TipoAtaque[0]=pokemon[0] ;  pp[0]="35"; efectivo[0]="100"; Dano[0]="40";
-							NombreAtaque[1]="Arañazo";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
+							NombreAtaque[1]="AraÃ±azo";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Doble Bofeton";   TipoAtaque[2]=pokemon[0] ;  pp[2]="10"; efectivo[2]="85"; Dano[2]="15";
 							NombreAtaque[3]="Placaje";   TipoAtaque[3]=pokemon[0] ;  pp[3]="35"; efectivo[3]="95"; Dano[3]="35";
 						FinSi						
@@ -5567,7 +5567,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="55";
 							pokemon[6]="40";
 							
-							NombreAtaque[0]="Ácido";   TipoAtaque[0]=pokemon[0] ;  pp[0]="30"; efectivo[0]="100"; Dano[0]="40";
+							NombreAtaque[0]="Ãcido";   TipoAtaque[0]=pokemon[0] ;  pp[0]="30"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Polvo Veneno";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]=""; Dano[1]="";
 							NombreAtaque[2]="Residuos";   TipoAtaque[2]=pokemon[0] ;  pp[2]="20"; efectivo[2]="95"; Dano[2]="65";
 							NombreAtaque[3]="Picotazo Venenoso";   TipoAtaque[3]=pokemon[0] ;  pp[3]="30"; efectivo[3]="100"; Dano[3]="15";
@@ -5583,7 +5583,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="90";
 							pokemon[6]="50";
 							
-							NombreAtaque[0]="Puño Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
+							NombreAtaque[0]="PuÃ±o Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
 							NombreAtaque[1]="Trueno";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="70"; Dano[1]="120";
 							NombreAtaque[2]="impactrueno";   TipoAtaque[2]=pokemon[0] ;  pp[2]="30"; efectivo[2]="100"; Dano[2]="40";
 							NombreAtaque[3]="Rayo";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="95";
@@ -5647,7 +5647,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="35";
 							pokemon[6]="60";
 							
-							NombreAtaque[0]="Mega Puño";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
+							NombreAtaque[0]="Mega PuÃ±o";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
 							NombreAtaque[1]="Destructor";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Placaje";   TipoAtaque[2]=pokemon[0] ;  pp[2]="35"; efectivo[2]="95"; Dano[2]="35";
 							NombreAtaque[3]="Chirridos";   TipoAtaque[3]=pokemon[0] ;  pp[3]="40"; efectivo[3]="85"; Dano[3]="0";
@@ -5666,7 +5666,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							NombreAtaque[0]="Asucas";   TipoAtaque[0]=pokemon[0] ;  pp[0]="25"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Lanza LLamas";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="100"; Dano[1]="95";
 							NombreAtaque[2]="Giro Fuego";   TipoAtaque[2]=pokemon[0] ;  pp[2]="15"; efectivo[2]="70"; Dano[2]="15";
-							NombreAtaque[3]="Puño Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
+							NombreAtaque[3]="PuÃ±o Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
 						FinSi					
 						//POKEMON 16
 						si eleccionPoke==16 Entonces
@@ -5680,7 +5680,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[6]="25";
 							
 							NombreAtaque[0]="Canto";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="55"; Dano[0]="0";
-							NombreAtaque[1]="Arañaso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
+							NombreAtaque[1]="AraÃ±aso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Placaje";   TipoAtaque[2]=pokemon[0] ;  pp[2]="35"; efectivo[2]="95"; Dano[2]="35";
 							NombreAtaque[3]="Chirridos";   TipoAtaque[3]=pokemon[0] ;  pp[3]="40"; efectivo[3]="85"; Dano[3]="0";
 						FinSi
@@ -5775,8 +5775,8 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="90";
 							pokemon[6]="40";
 							
-							NombreAtaque[0]="Mega Puño";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
-							NombreAtaque[1]="Arañaso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
+							NombreAtaque[0]="Mega PuÃ±o";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
+							NombreAtaque[1]="AraÃ±aso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Doble Bofeton";   TipoAtaque[2]=pokemon[0] ;  pp[2]="10"; efectivo[2]="85"; Dano[2]="15";
 							NombreAtaque[3]="Placaje";   TipoAtaque[3]=pokemon[0] ;  pp[3]="35"; efectivo[3]="95"; Dano[3]="35";
 						FinSi						
@@ -5826,7 +5826,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							NombreAtaque[0]="Ascuas";   TipoAtaque[0]=pokemon[0] ;  pp[0]="25"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Lanza Llamas";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="100"; Dano[1]="95";
 							NombreAtaque[2]="Giro Fuego";   TipoAtaque[2]=pokemon[0] ;  pp[2]="15"; efectivo[2]="70"; Dano[2]="15";
-							NombreAtaque[3]="Puño Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
+							NombreAtaque[3]="PuÃ±o Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
 						FinSi												
 						//POKEMON 26
 						si eleccionPoke==26 Entonces
@@ -5938,7 +5938,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							NombreAtaque[0]="Ascuas";   TipoAtaque[0]=pokemon[0] ;  pp[0]="25"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Lanza Llamas";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="100"; Dano[1]="95";
 							NombreAtaque[2]="Giro Fuego";   TipoAtaque[2]=pokemon[0] ;  pp[2]="15"; efectivo[2]="70"; Dano[2]="15";
-							NombreAtaque[3]="Puño Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
+							NombreAtaque[3]="PuÃ±o Fuego";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="75";
 						FinSi					
 						//POKEMON 33
 						si eleccionPoke==33 Entonces
@@ -5967,7 +5967,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="45";
 							pokemon[6]="95";
 							
-							NombreAtaque[0]="Puño Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
+							NombreAtaque[0]="PuÃ±o Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
 							NombreAtaque[1]="Trueno";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="70"; Dano[1]="120";
 							NombreAtaque[2]="Impactrueno";   TipoAtaque[2]=pokemon[0] ;  pp[2]="30"; efectivo[2]="100"; Dano[2]="40";
 							NombreAtaque[3]="Rayo";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="95";
@@ -6127,7 +6127,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="100";
 							pokemon[6]="55";
 							
-							NombreAtaque[0]="Puño Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
+							NombreAtaque[0]="PuÃ±o Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
 							NombreAtaque[1]="Trueno";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="70"; Dano[1]="120";
 							NombreAtaque[2]="Impactrueno";   TipoAtaque[2]=pokemon[0] ;  pp[2]="30"; efectivo[2]="100"; Dano[2]="40";
 							NombreAtaque[3]="Rayo";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="95";
@@ -6207,7 +6207,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="30";
 							pokemon[6]="60";
 							
-							NombreAtaque[0]="Mega Puño";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
+							NombreAtaque[0]="Mega PuÃ±o";   TipoAtaque[0]=pokemon[0] ;  pp[0]="20"; efectivo[0]="85"; Dano[0]="80";
 							NombreAtaque[1]="Destructor";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Placaje";   TipoAtaque[2]=pokemon[0] ;  pp[2]="35"; efectivo[2]="95"; Dano[2]="35";
 							NombreAtaque[3]="Chirridos";   TipoAtaque[3]=pokemon[0] ;  pp[3]="40"; efectivo[3]="85"; Dano[3]="0";
@@ -6256,7 +6256,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[6]="50";
 							
 							NombreAtaque[0]="Destructor";   TipoAtaque[0]=pokemon[0] ;  pp[0]="35"; efectivo[0]="100"; Dano[0]="40";
-							NombreAtaque[1]="Arañaso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
+							NombreAtaque[1]="AraÃ±aso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Doble Bofeton";   TipoAtaque[2]=pokemon[0] ;  pp[2]="10"; efectivo[2]="85"; Dano[2]="15";
 							NombreAtaque[3]="Chirridos";   TipoAtaque[3]=pokemon[0] ;  pp[3]="40"; efectivo[3]="85"; Dano[3]="0";
 						FinSi
@@ -6288,7 +6288,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[6]="40";
 							
 							NombreAtaque[0]="Destructor";   TipoAtaque[0]=pokemon[0] ;  pp[0]="35"; efectivo[0]="100"; Dano[0]="40";
-							NombreAtaque[1]="Arañaso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
+							NombreAtaque[1]="AraÃ±aso";   TipoAtaque[1]=pokemon[0] ;  pp[1]="35"; efectivo[1]="100"; Dano[1]="40";
 							NombreAtaque[2]="Doble Bofeton";   TipoAtaque[2]=pokemon[0] ;  pp[2]="10"; efectivo[2]="85"; Dano[2]="15";
 							NombreAtaque[3]="Placaje";   TipoAtaque[3]= pokemon[0];  pp[3]="35"; efectivo[3]="95"; Dano[3]="35";
 						FinSi	
@@ -6384,7 +6384,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[6]="95";
 							
 							NombreAtaque[0]="Psico Rayo";   TipoAtaque[0]=pokemon[1];  pp[0]="20"; efectivo[0]="100"; Dano[0]="65";
-							NombreAtaque[1]="Puño Hielo";   TipoAtaque[1]=pokemon[0];  pp[1]="15"; efectivo[1]="100"; Dano[1]="15";
+							NombreAtaque[1]="PuÃ±o Hielo";   TipoAtaque[1]=pokemon[0];  pp[1]="15"; efectivo[1]="100"; Dano[1]="15";
 							NombreAtaque[2]="Amnesia";      TipoAtaque[2]=pokemon[1];  pp[2]="20"; efectivo[2]="100"; Dano[2]="0";
 							NombreAtaque[3]="Doble Bofeton"; TipoAtaque[3]="NORMAL";   pp[3]="10";  efectivo[3]="85"; Dano[3]="15";
 						FinSi
@@ -6399,9 +6399,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							pokemon[5]="105";
 							pokemon[6]="85";
 							
-							NombreAtaque[0]="Puño Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
+							NombreAtaque[0]="PuÃ±o Trueno";   TipoAtaque[0]=pokemon[0] ;  pp[0]="15"; efectivo[0]="100"; Dano[0]="75";
 							NombreAtaque[1]="Golpe Karate";   TipoAtaque[1]="LUCHA" ;  pp[1]="25"; efectivo[1]="100"; Dano[1]="50";
-							NombreAtaque[2]="Mega Puño";   TipoAtaque[2]="NORMAL" ;  pp[2]="20"; efectivo[2]="85"; Dano[2]="80";
+							NombreAtaque[2]="Mega PuÃ±o";   TipoAtaque[2]="NORMAL" ;  pp[2]="20"; efectivo[2]="85"; Dano[2]="80";
 							NombreAtaque[3]="Rayo";   TipoAtaque[3]=pokemon[0] ;  pp[3]="15"; efectivo[3]="100"; Dano[3]="95";
 						FinSi	
 						//POKEMON 
@@ -6417,7 +6417,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							NombreAtaque[0]="Ascuas";   TipoAtaque[0]= pokemon[0];  pp[0]="25"; efectivo[0]="100"; Dano[0]="40";
 							NombreAtaque[1]="Lanza LLamas";   TipoAtaque[1]=pokemon[0] ;  pp[1]="15"; efectivo[1]="100"; Dano[1]="95";
-							NombreAtaque[2]="Puño Fuego";   TipoAtaque[2]=pokemon[0] ;  pp[2]="15"; efectivo[2]="100"; Dano[2]="75";
+							NombreAtaque[2]="PuÃ±o Fuego";   TipoAtaque[2]=pokemon[0] ;  pp[2]="15"; efectivo[2]="100"; Dano[2]="75";
 							NombreAtaque[3]="Placaje";   TipoAtaque[3]="NORMAL" ;  pp[3]="35"; efectivo[3]="95"; Dano[3]="35";
 						FinSi	
 						//POKEMON 
@@ -6678,7 +6678,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							
 							NombreAtaque[0]="Psico Rayo";   TipoAtaque[0]=pokemon[0] ;  pp[0]=""; efectivo[0]=""; Dano[0]="65";
-							NombreAtaque[1]="Mega Puño";   TipoAtaque[1]="NORMAL" ;  pp[1]="20"; efectivo[1]="85"; Dano[1]="80";
+							NombreAtaque[1]="Mega PuÃ±o";   TipoAtaque[1]="NORMAL" ;  pp[1]="20"; efectivo[1]="85"; Dano[1]="80";
 							NombreAtaque[2]="Ataque Psiquico";   TipoAtaque[2]=pokemon[0] ;  pp[2]="10"; efectivo[2]="100"; Dano[2]="90";
 							NombreAtaque[3]="Amnesia";   TipoAtaque[3]=pokemon[0] ;  pp[3]="20"; efectivo[3]="100"; Dano[3]="0";
 						FinSi	
@@ -6696,7 +6696,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 							
 							NombreAtaque[0]="Transformacion";   TipoAtaque[0]="NORMAL" ;  pp[0]="10"; efectivo[0]="100"; Dano[0]="0";
 							NombreAtaque[1]="Psico Rayo";   TipoAtaque[1]=pokemon[0] ;  pp[1]="10"; efectivo[1]="100"; Dano[1]="65";
-							NombreAtaque[2]="Mega Puño";   TipoAtaque[2]=pokemon[0] ;  pp[2]="20"; efectivo[2]="85"; Dano[2]="80";
+							NombreAtaque[2]="Mega PuÃ±o";   TipoAtaque[2]=pokemon[0] ;  pp[2]="20"; efectivo[2]="85"; Dano[2]="80";
 							NombreAtaque[3]="Amnesia";   TipoAtaque[3]=pokemon[0] ;  pp[3]="20"; efectivo[3]="100"; Dano[3]="0";
 						FinSi
 						//LISTA DE POKEMONES USUARIO
@@ -6849,7 +6849,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 			//******************************************************SALIR DEL JUEGO*******************************
 			si opc3==4 Entonces
 				Repetir
-					Escribir "¿Estas seguro que quieres salir?, si o no ";
+					Escribir "Â¿Estas seguro que quieres salir?, si o no ";
 					leer salirOPC;
 				Hasta Que salirOPC=="si" o salirOPC="SI" o salirOPC=="no" o salirOPC="NO"
 				
@@ -6883,9 +6883,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|        D  U  O  C         |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX|   S A N  B E R N A R D O  |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX|   SMT TX                  |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX|        2  0  1  6         |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX|        2  0  2  3         |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX@---------------------------@XXXXXXXXXX";
 		Escribir "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxXXXXX";
@@ -6898,9 +6898,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|        D  U  O  C         |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX|   S A N  B E R N A R D O  |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX|   SMT TX                  |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX|        2  0  1  6         |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX|        2  0  2  3         |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX@---------------------------@XXXXXXXXXX";
 		Escribir "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxXXXXX";
@@ -6913,9 +6913,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|      A N A L I S I S      |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX| CARLOS ORELLANA           |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX|            &              |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX|              CARLOS CERDA |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX| PUES DARAM WEY            |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX@---------------------------@XXXXXXXXXX";
 		Escribir "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxXXXXX";
@@ -6926,11 +6926,11 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 		Escribir "XXXXXXXXXX@---------------------------@XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX| P R O G R A M A D O R E S |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX| P  R  O G  R A M A D O R  |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX| BENJAMIN MORA             |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX|            &              |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX|           CARLOS ORELLANA |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX| RAMSES JUAREZ             |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX@---------------------------@XXXXXXXXXX";
 		Escribir "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxXXXXX";
@@ -6958,7 +6958,7 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|       P R O F E S O R     |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|                           |XXXXXXXXXX";
-		Escribir "XXXXXXXXXX|          IGNACIO V.       |XXXXXXXXXX";
+		Escribir "XXXXXXXXXX|          RAMSES JU.       |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX| PROGRAMCION               |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|             DE            |XXXXXXXXXX";
 		Escribir "XXXXXXXXXX|               ALGORITMO   |XXXXXXXXXX";
@@ -6969,18 +6969,18 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 	FinSi
 	Limpiar Pantalla;
 	Escribir "";	
-    Escribir "  D U O C  2 0 1 6               .::. ";
+    Escribir "  SMT TX    2 0 2 3               .::. ";
 	Escribir "	                              .;:** ";
 	Escribir "	                              `";
 	Escribir "   .:XHHHHk.              db.   .;;.     dH  MX  ";
 	Escribir "oMMMMMMMMMMM       ~MM  dMMP :MMMMMR   MMM  MR      ~MRMN";
-	Escribir "QMMMMMb   MMX       MMMMMMP  MX   M~   MMM MMM  .oo. XMMM   ´MMM";
+	Escribir "QMMMMMb   MMX       MMMMMMP  MX   M~   MMM MMM  .oo. XMMM   Â´MMM";
 	Escribir "  `MMMM.  )M> :X!Hk. MMMM   XMM.o   .  MMMMMMM X?XMMM MMM> !MMP";
-	Escribir "   ´MMMb.dM! XM M´?M MMMMMX.`MMMMMMMM~ MM M MM XM `  MX MMX XMM";
+	Escribir "   Â´MMMb.dM! XM MÂ´?M MMMMMX.`MMMMMMMM~ MM M MM XM `  MX MMX XMM";
 	Escribir "    ~MMMMM~ XMM. .XM XM` MMMb.~~MMMM~.MMX M  t MMbooMM XM MMMMP";
 	Escribir "     ?MMM>  YMMMMMM! MM   `?MMRb.    `       !L MMMMM XM  IMMM";
 	Escribir "      MMMX    MMMM   MM       ~%:            !Mh.  dMI     IMMP";
-	Escribir "      ´MMM.                                                IMX" ;
+	Escribir "      Â´MMM.                                                IMX" ;
 	Escribir "       ~M!M                                                 BMT";
 	Escribir "                      A M A R I L L O ";
 	Escribir "";
